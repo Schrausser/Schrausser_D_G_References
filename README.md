@@ -41,9 +41,69 @@ effects.” Thesis Chapters. Academia. https://www.academia.edu/81286148.
 ———. 2022d. “Thesis: Summaries and Discussions.” Thesis Chapters.
 Academia. https://www.academia.edu/82083349.
 
+## Papers
+
+Fink, A., Schrausser, D. G., & Neubauer, A. C. 2002. “The moderating
+influence of extraversion on the relationship between IQ and cortical
+activation.” Personality and Individual Differences 33 (2): 311–26.
+http://doi.org/10.1016/S0191-8869(01)00157-X.
+
+Freudenthaler, H. H., Neubauer, A. C., Pfurtscheller, G., & Schrausser,
+D. G. 2000. “State-of-the-Art Lectures, Invited Symposia, Keynote
+Addresses, Poster session: Sex differences in the relationship between
+intelligence and cortical activation.” International Journal of
+Psychology 35 (3–4): 55. https://doi.org/10.1080/00207594.2000.20000724.
+
+Neubauer, A. C., Fink, A., & Schrausser, D. G. 2002. “Intelligence and
+neural efficiency: The influence of task content and sex on the brain -
+IQ relationship.” Intelligence 30 (6): 515–36.
+http://doi.org/10.1016/S0160-2896(02)00091-0.
+
+Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. 2000.
+“Psychometrische Intelligenz und kortikale Aktivierung bei der
+Bearbeitung kognitiver Aufgaben.” Zeitschrift Für Differentielle Und
+Diagnostische Psychologie 21 (3): 200–207.
+https://doi.org/10.1024//0170-1789.21.3.200.
+
+Schrausser, D. G. 1999. “Nachrichten aus Instituten und Institutionen.”
+Psychologische Rundschau 50 (2): 123–26.
+https://doi.org/10.1026//0033-3042.50.2.123.
+
+———. 2008. “File organizing tool, DTO: Manual.” Handbooks. Academia.
+https://www.academia.edu/81738669.
+
+———. 2009. “Psychisches und Physisches als einander implizierende
+Aspekte.” Research. ResearchGate.
+https://doi.org/10.13140/RG.2.2.13398.52807.
+
+———. 2022. “Mathematical-Statistical Algorithm Interpreter,
+SCHRAUSSER-MAT: Function Index, Manual.” Handbooks. Academia.
+https://doi.org/doi.org/10.13140/RG.2.2.28314.52164.
+
+———. 2023. “EMDA: Treatment procedure for lateral Eye Movement
+Desensitization.” PsyArXiv. https://doi.org/10.31234/osf.io/n2r5z.
+
+Schrausser, D. G., & Scambor, C. 1995. “Randomisierungstests: Eine
+Einführung in die Methode.” Research. ResearchGate.
+https://doi.org/10.13140/RG.2.2.27967.18088.
+
+———. 2022. “Randomizationtests: An introduction to the method.”
+Research. ResearchGate. https://doi.org/10.13140/RG.2.2.13758.66884.
+
+Schrausser, D. G., Draxler, J., & Plechinger, J. 1994. “EMD – Eye
+Movement Desensitization.” Research. ResearchGate.
+https://doi.org/10.13140/RG.2.2.28498.02247/2.
+
+———. 2022. “EMD – Eye Movement Desensitization.” Research. ResearchGate.
+https://doi.org/10.13140/RG.2.2.13968.38404.
+
+Schrausser, D. G., Fink, A., & Neubauer, A. C. 2003. “Intelligence and
+neural efficiency: Sex- and task-related effects on EEG coherence.”
+International Journal of Psychophysiology. ResearchGate.
+https://doi.org/10.13140/RG.2.2.28760.16646.
+
+
 ## Software
-
-
 
 Schrausser, D. G. 2023a. Schrausser/ConsoleApp_DistributionFunctions:
 Console applicationes for distribution functions (version v1.0.0).
