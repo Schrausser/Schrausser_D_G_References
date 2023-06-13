@@ -102,6 +102,69 @@ neural efficiency: Sex- and task-related effects on EEG coherence.”
 International Journal of Psychophysiology. ResearchGate.
 https://doi.org/10.13140/RG.2.2.28760.16646.
 
+## Conferences
+
+Freudenthaler, H. H., Schrausser, D. G., Pfurtscheller, G., & Neubauer,
+A. C. 2000. “Gender differences in the relationship between intelligence
+and cortical activation.” In XXVII International Congress of Psychology.
+Stockholm, Sweden. https://doi.org/10.13140/RG.2.2.23609.03689.
+
+Neubauer, A. C., Fink, A., & Schrausser, D. G. 2001. “Intelligence and
+neural efficiency: The influence of task content and sex on brain-IQ
+relationship.” In Symposium ’Physiological approaches to human
+intelligence’ at the 10th Biennial Meeting of the International Society
+for the Study of Individual Differences (ISSID). Edinburgh, United
+Kingdom: The University of Edinburgh.
+https://doi.org/doi.org/10.13140/RG.2.2.21487.30885.
+
+Neubauer, A. C., Schrausser, D. G., & Fink, A. 2001. “Intelligenz und
+neurale Effizienz gemessen mittels EEG-Kohärenz.” In 6. Arbeitstagung
+der Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie &
+Psychologische Diagnostik. Leipzig, Deutschland: Universität Leipzig.
+https://doi.org/10.13140/RG.2.2.34909.08166.
+
+Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. 2000.
+“Psychometrische Intelligenz und kortikale Aktivierung bei der
+Bearbeitung kognitiver Aufgaben.” In 42. Kongreß der Deutschen
+Gesellschaft für Psychologie. Jena, Deutschland:
+Friedrich-Schiller-Universität Jena.
+https://doi.org/10.13140/RG.2.2.16108.64640/1.
+
+Neubauer, A. C., Schrausser, D. G., Sange, G., Pfurtscheller, G. 1999.
+“Psychometrische Intelligenz und kortikale Aktivierung bei der
+Bearbeitung elementar-kognitiver Aufgaben.” In 5. Arbeitstagung der
+Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie &
+Psychologische Diagnostik. Wuppertal, Deutschland: Bergische Universität
+Wuppertal. https://doi.org/10.13140/RG.2.2.13162.59847.
+
+Schrausser, D. G. 1998. “Die Permutationsmethode: Voraussetzungsfrei
+testen.” In 41. Kongreß der Deutschen Gesellschaft für Psychologie.
+Dresden, Deutschland: Technische Universität Dresden.
+https://doi.org/10.13140/RG.2.2.19532.69768.
+
+———. 1999. “Konstruktion einer Skala zur Erfassung selbstwahrgenommener
+Leistungsfähigkeit in 3 Inhaltsklassen Psychometrischer Intelligenz.” In
+5. Arbeitstagung der Fachgruppe Differentielle Psychologie,
+Persönlichkeitspsychologie & Psychologische Diagnostik. Wuppertal,
+Deutschland: Bergische Universität Wuppertal.
+https://doi.org/10.13140/RG.2.2.33203.50721.
+
+———. 2002. “Exakte Verfahren oder Asymptotische Approximation?” In 3.
+Tagung der österreichischen Gesellschaft für Psychologie (ÖGP).
+Salzburg, Österreich: Universität Salzburg.
+https://doi.org/10.13140/RG.2.2.14805.91369.
+
+Schrausser, D. G., Fink, A., & Neubauer, A. C. 2001. “Intelligence and
+neural efficiency as determined by EEG-Coherence.” In Symposium
+’Physiological approaches to human intelligence’ at the 10th Biennial
+Meeting of the International Society for the Study of Individual
+Differences (ISSID). Edinburgh, United Kingdom: The University of
+Edinburgh. https://doi.org/10.13140/RG.2.2.24814.89929.
+
+———. 2002. “Intelligenz und neurale Effizienz gemessen mittels
+EEG-Kohärenz.” In 5. Tagung der Österreichischen Gesellschaft für
+Psychologie (ÖGP). Wien, Österreich: Universität Wien.
+https://doi.org/10.13140/RG.2.2.13962.13768.
 
 ## Software
 
@@ -182,4 +245,3 @@ Zenodo. https://doi.org/10.5281/zenodo.7644967.
 
 ———. 2023w. Schrausser/Ptolemy-s-table-of-chords: Calculator (version
 v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.7948117.
-
