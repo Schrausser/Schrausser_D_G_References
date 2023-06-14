@@ -130,7 +130,7 @@ Gesellschaft für Psychologie. Jena, Deutschland:
 Friedrich-Schiller-Universität Jena.
 https://doi.org/10.13140/RG.2.2.16108.64640/1.
 
-Neubauer, A. C., Schrausser, D. G., Sange, G., Pfurtscheller, G. 1999.
+Neubauer, A. C., Schrausser, D. G., Sange, G., & Pfurtscheller, G. 1999.
 “Psychometrische Intelligenz und kortikale Aktivierung bei der
 Bearbeitung elementar-kognitiver Aufgaben.” In 5. Arbeitstagung der
 Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie &
