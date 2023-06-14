@@ -149,7 +149,7 @@ Persönlichkeitspsychologie & Psychologische Diagnostik. Wuppertal,
 Deutschland: Bergische Universität Wuppertal.
 https://doi.org/10.13140/RG.2.2.33203.50721.
 
-———. 2002. “Exakte Verfahren oder Asymptotische Approximation?” In 3.
+———. 1997. “Exakte Verfahren oder Asymptotische Approximation?” In 3.
 Tagung der österreichischen Gesellschaft für Psychologie (ÖGP).
 Salzburg, Österreich: Universität Salzburg.
 https://doi.org/10.13140/RG.2.2.14805.91369.
