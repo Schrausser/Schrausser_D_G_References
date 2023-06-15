@@ -216,6 +216,117 @@ EEG-Kohärenz.” In 5. Tagung der Österreichischen Gesellschaft für
 Psychologie (ÖGP). Wien, Österreich: Universität Wien.
 https://doi.org/10.13140/RG.2.2.13962.13768.
 
+### Source codes
+
+Schrausser, D. G. 1994. “EMDA_Treatment: Procedure to demonstrate the
+affect-reducing effect of EMD.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7651366.
+
+———. 2000. “ConsoleApp_EEG: erc.c (Event Related Coherence).” Code.
+ResearchGate. https://doi.org/10.13140/RG.2.2.26549.96483.
+
+———. 2008a. “ConsoleApp_String: AZUBE.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.21508.81281.
+
+———. 2008b. “Schrausser/DTO: File Organizing Tool.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7659246.
+
+———. 2009a. “FunktionWin: Binomial.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.16685.36326.
+
+———. 2009b. “FunktionWin: F_Function.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.13749.35040.
+
+———. 2009c. “FunktionWin: Fisher_Exact.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.20040.80642.
+
+———. 2009d. “FunktionWin: Geometric.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.30526.56649.
+
+———. 2009e. “FunktionWin: Hypergeometric.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.25073.97120.
+
+———. 2009f. “FunktionWin: t_Function.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.27171.12320.
+
+———. 2009g. “FunktionWin: x2_Function.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.30107.13605.
+
+———. 2009h. “FunktionWin: z_Dichte.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.33882.00967.
+
+———. 2009i. “FunktionWin: Fisher_Z.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.32481.17767.
+
+———. 2009j. “FunktionWin: GAMMA.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.10393.90722.
+
+———. 2009k. “ConsoleApp_DistributionFunctions: Verteilungsform.c.” Code.
+ResearchGate. https://doi.org/10.13140/RG.2.2.33636.04489.
+
+———. 2009l. “ConsoleApp_DistributionFunctions: Verteilungsform_kor.c.”
+Code. ResearchGate. https://doi.org/10.13140/RG.2.2.25247.43685.
+
+———. 2009m. “FunktionWin: Poisson.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.23186.53440.
+
+———. 2009n. “ThetaWin: Distribution simulator.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7659263.
+
+———. 2010a. “FunktionWin: epsilon.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.11324.51847/1.
+
+———. 2010b. “FunktionWin: Windows Interface for distribution functions.”
+Code. ResearchGate. https://doi.org/10.5281/zenodo.7651660.
+
+———. 2011a. “ConsoleApp_Integral: KUSF.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.28396.64648.
+
+———. 2011b. “ConsoleApp_Integral: KUSI.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.18330.31683.
+
+———. 2011c. “ConsoleApp_Integral: NWTI.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.32748.23683.
+
+———. 2011d. “ConsoleApp_Integral: NWTP.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.29392.79366.
+
+———. 2011e. “ConsoleApp_Integral: ROME.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.36103.68009.
+
+———. 2011f. “ConsoleApp_Integral: ROMI.c.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.22681.90729.
+
+———. 2011g. “SCR-EMD: Windows screensaver simulating EMD treatment.”
+Code. ResearchGate. https://doi.org/10.5281/zenodo.7658857.
+
+———. 2011h. “UHRwin: Time application for MS Windows.” Code.
+ResearchGate. https://doi.org/10.5281/zenodo.7654049.
+
+———. 2011i. “DICEwin: DICE for Windows.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7644967.
+
+———. 2011j. “DAT: Matrices and raw data editor.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7651151.
+
+———. 2011k. “GRP2.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7647467.
+
+———. 2017. “EMD_Android_APK: 4.5.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7644237.
+
+———. 2022. “SCHRAUSSER-MAT.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.14377.26727.
+
+———. 2023a. “SCHRAUSSER-MAT SCR: CLR7r.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.16344.57600/1.
+
+———. 2023b. “RND1n: Random Number Screen.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7977257.
+
+———. 2023c. “DICEandro: DICE for Android.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7943339.
+
 ### Software
 
 Schrausser, D. G. 2023a. Schrausser/ConsoleApp_DistributionFunctions:
