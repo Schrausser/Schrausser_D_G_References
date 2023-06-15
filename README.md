@@ -353,6 +353,51 @@ https://doi.org/10.5281/zenodo.7977257.
 ———. 2023c. “DICEandro: DICE for Android.” Code. ResearchGate.
 https://doi.org/10.5281/zenodo.7943339.
 
+### more
+
+Schrausser, D. G. 1996. “Scientific advice and data analysis as part of
+the Vienna Development Study (WES).” Wiener Entwicklungsstudie, WES.
+
+———. 2000a. “ConsoleApp_EEG: Console applications for calculating EEG
+parameters.” GitHub Repository. GitHub.
+https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5.
+
+———. 2000b. “Development of a Parameter to Indicate the
+Focussation-Level of Cortical Activation.” Method. ResearchGate.
+https://doi.org/10.13140/RG.2.2.32114.17601.
+
+———. 2001. ERD Maps. Data. ResearchGate.
+https://doi.org/10.13140/RG.2.2.15939.37928.
+
+———. 2003a. “Meta-C Questionnaires.” Method. ResearchGate.
+https://doi.org/10.13140/RG.2.2.14101.40168.
+
+———. 2003b. “Rawdata: SPSS Data and Syntax Files.” GitHub Repository.
+GitHub. https://github.com/Schrausser/Rawdata.
+
+———. 2008. “ConsoleApp_Tools: Console tool applications.” Code.
+ResearchGate. https://doi.org/10.5281/zenodo.7655240.
+
+———. 2009a. “Ip: Inferential permutation methods.” GitHub Repository.
+GitHub. https://github.com/Schrausser/Ip/releases/tag/v1.0.0.
+
+———. 2009b. “ConsoleApp_DistributionFunctions: Console applicationes for
+distribution functions.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7664141.
+
+———. 2010. “ConsoleApp_Matrix: Console applications for matrix
+calculation and tools.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7655047.
+
+———. 2011a. “ConsoleApp_String: Console applications for string and
+transformation.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7653791.
+
+———. 2011b. “ConsoleApp_Integral: Console applications for integral and
+interpolation.” Code. ResearchGate.
+https://doi.org/10.5281/zenodo.7655057.
+
+
 ### Software
 
 Schrausser, D. G. 2023a. Schrausser/ConsoleApp_DistributionFunctions:
