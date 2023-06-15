@@ -102,6 +102,45 @@ neural efficiency: Sex- and task-related effects on EEG coherence.”
 International Journal of Psychophysiology. ResearchGate.
 https://doi.org/10.13140/RG.2.2.28760.16646.
 
+### WWW
+
+Schrausser, D. G. 1998. “Section of Differential and Diagnostical
+Psychology.” GitHub Repository. GitHub. 1998.
+https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_0.
+
+———. 1999. “Section of Differential and Diagnostical Psychology.” GitHub
+Repository. GitHub. 1999.
+https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_1.
+
+———. 2000. “Section of Differential Psychology.” GitHub Repository.
+GitHub. 2000.
+https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_2.zip.
+
+———. 2001. “SCHRAUSSER; PS Testkonstruktion, WS 2000/2001.” GitHub
+Repository. GitHub. 2001.
+https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0001.zip.
+
+———. 2002a. “SCHRAUSSER; Experimentalpsychologie I, SS 2002.” GitHub
+Repository. GitHub. 2002.
+https://github.com/Schrausser/WebPages_Lectures/blob/main/www_exI02.zip.
+
+———. 2002b. “Section of Differential Psychology.” GitHub Repository.
+GitHub. 2002.
+https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_3.zip.
+
+———. 2003a. “SCHRAUSSER; Konstruktion psychologischer Tests, SS 03.”
+GitHub Repository. GitHub. 2003.
+https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk03.zip.
+
+———. 2003b. “SCHRAUSSER; PS Testkonstruktion, WS 02/03.” GitHub
+Repository. GitHub. 2003.
+https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0203.zip.
+
+———. 2003c. “SCHRAUSSER; Psychologische Forschungsmethodik II, SS 03.”
+GitHub Repository. GitHub. 2003.
+https://github.com/Schrausser/WebPages_Lectures/blob/main/www_fm03.zip.
+
+
 ### Conferences
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. 2001. “Der moderierende
