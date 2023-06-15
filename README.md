@@ -97,12 +97,18 @@ https://doi.org/10.13140/RG.2.2.28498.02247/2.
 ———. 2022. “EMD – Eye Movement Desensitization.” Research. ResearchGate.
 https://doi.org/10.13140/RG.2.2.13968.38404.
 
-Schrausser, D. G., Fink, A., & Neubauer, A. C. 2003. “Intelligence and
-neural efficiency: Sex- and task-related effects on EEG coherence.”
-International Journal of Psychophysiology. ResearchGate.
-https://doi.org/10.13140/RG.2.2.28760.16646.
-
 ## Conferences
+
+Fink, A., Schrausser, D. G., & Neubauer, A. C. 2001. “Der moderierende
+Einfluß von Extraversion auf die Beziehung zwischen IQ und kortikaler
+Aktivierung.” In 6. Arbeitstagung der Fachgruppe Differentielle
+Psychologie, Persönlichkeitspsychologie & Psychologische Diagnostik.
+Leipzig, Deutschland: Universität Leipzig.
+
+———. 2002. “Der moderierende Einfluß von Extraversion auf die Beziehung
+zwischen IQ und kortikaler Aktivierung.” In 5. Tagung der
+Österreichischen Gesellschaft für Psychologie (ÖGP). Wien, Österreich:
+Universität Wien.
 
 Freudenthaler, H. H., Schrausser, D. G., Pfurtscheller, G., & Neubauer,
 A. C. 2000. “Gender differences in the relationship between intelligence
@@ -137,9 +143,14 @@ Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie &
 Psychologische Diagnostik. Wuppertal, Deutschland: Bergische Universität
 Wuppertal. https://doi.org/10.13140/RG.2.2.13162.59847.
 
-Schrausser, D. G. 1998. “Die Permutationsmethode: Voraussetzungsfrei
-testen.” In 41. Kongreß der Deutschen Gesellschaft für Psychologie.
-Dresden, Deutschland: Technische Universität Dresden.
+Schrausser, D. G. 1997. “Exakte Verfahren oder Asymptotische
+Approximation?” In 3. Tagung der österreichischen Gesellschaft für
+Psychologie (ÖGP). Salzburg, Österreich: Universität Salzburg.
+https://doi.org/10.13140/RG.2.2.14805.91369.
+
+———. 1998. “Die Permutationsmethode: Voraussetzungsfrei testen.” In 41.
+Kongreß der Deutschen Gesellschaft für Psychologie. Dresden,
+Deutschland: Technische Universität Dresden.
 https://doi.org/10.13140/RG.2.2.19532.69768.
 
 ———. 1999. “Konstruktion einer Skala zur Erfassung selbstwahrgenommener
@@ -148,11 +159,6 @@ Leistungsfähigkeit in 3 Inhaltsklassen Psychometrischer Intelligenz.” In
 Persönlichkeitspsychologie & Psychologische Diagnostik. Wuppertal,
 Deutschland: Bergische Universität Wuppertal.
 https://doi.org/10.13140/RG.2.2.33203.50721.
-
-———. 1997. “Exakte Verfahren oder Asymptotische Approximation?” In 3.
-Tagung der österreichischen Gesellschaft für Psychologie (ÖGP).
-Salzburg, Österreich: Universität Salzburg.
-https://doi.org/10.13140/RG.2.2.14805.91369.
 
 Schrausser, D. G., Fink, A., & Neubauer, A. C. 2001. “Intelligence and
 neural efficiency as determined by EEG-Coherence.” In Symposium
