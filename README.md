@@ -97,6 +97,11 @@ https://doi.org/10.13140/RG.2.2.28498.02247/2.
 ———. 2022. “EMD – Eye Movement Desensitization.” Research. ResearchGate.
 https://doi.org/10.13140/RG.2.2.13968.38404.
 
+Schrausser, D. G., Fink, A., & Neubauer, A. C. 2003. “Intelligence and
+neural efficiency: Sex- and task-related effects on EEG coherence.”
+International Journal of Psychophysiology. ResearchGate.
+https://doi.org/10.13140/RG.2.2.28760.16646.
+
 ## Conferences
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. 2001. “Der moderierende
