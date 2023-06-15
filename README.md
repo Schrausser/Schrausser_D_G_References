@@ -140,6 +140,32 @@ https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0203.zip.
 GitHub Repository. GitHub. 2003.
 https://github.com/Schrausser/WebPages_Lectures/blob/main/www_fm03.zip.
 
+### Lectures
+
+Schrausser, D. G. 1997a. “Einführung in die Benutzung von SPSS:
+Beispielsammlung.” Method. ResearchGate.
+https://doi.org/10.13140/RG.2.2.14300.97921.
+
+———. 1997b. “Einführung in die Benutzung von SPSS: Beispielsammlung /
+Daten.” Data. ResearchGate. https://doi.org/10.13140/RG.2.2.35075.89126.
+
+———. 2002. “Experimentalpsychologie I, SS 2002.” Method. ResearchGate.
+https://doi.org/10.13140/RG.2.2.34370.04807.
+
+———. 2003a. “Konstruktion Psychologischer Tests, SS 03.” Method.
+ResearchGate. https://doi.org/10.13140/RG.2.2.24225.07527.
+
+———. 2003b. “Konstruktion psychologischer Tests, SS 03: Meta-C, SPSS
+Rohdaten.” Data. ResearchGate.
+https://doi.org/10.13140/RG.2.2.17354.95688.
+
+———. 2003c. “Konstruktion psychologischer Tests, SS 03: Meta-C, SPSS
+Syntax.” Code. ResearchGate.
+https://doi.org/10.13140/RG.2.2.21420.13445/1.
+
+———. 2003d. “Psychologische Forschungsmethodik II, SS 03.” Method.
+ResearchGate. https://doi.org/10.13140/RG.2.2.21472.56324.
+
 
 ### Conferences
 
