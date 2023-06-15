@@ -41,7 +41,7 @@ effects.” Thesis Chapters. Academia. https://www.academia.edu/81286148.
 ———. 2022d. “Thesis: Summaries and Discussions.” Thesis Chapters.
 Academia. https://www.academia.edu/82083349.
 
-## Papers
+### Papers
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. 2002. “The moderating
 influence of extraversion on the relationship between IQ and cortical
@@ -102,7 +102,7 @@ neural efficiency: Sex- and task-related effects on EEG coherence.”
 International Journal of Psychophysiology. ResearchGate.
 https://doi.org/10.13140/RG.2.2.28760.16646.
 
-## Conferences
+### Conferences
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. 2001. “Der moderierende
 Einfluß von Extraversion auf die Beziehung zwischen IQ und kortikaler
@@ -177,7 +177,7 @@ EEG-Kohärenz.” In 5. Tagung der Österreichischen Gesellschaft für
 Psychologie (ÖGP). Wien, Österreich: Universität Wien.
 https://doi.org/10.13140/RG.2.2.13962.13768.
 
-## Software
+### Software
 
 Schrausser, D. G. 2023a. Schrausser/ConsoleApp_DistributionFunctions:
 Console applicationes for distribution functions (version v1.0.0).
