@@ -374,7 +374,7 @@ https://doi.org/10.13140/RG.2.2.14101.40168.
 GitHub. https://github.com/Schrausser/Rawdata.
 
 ———. (2006). Advanced Tool for Integrated Algorithms: MS Windows
-interface for EEG applications). *GitHub Repository*. GitHub.
+interface for EEG applications. *GitHub Repository*. GitHub.
 https://github.com/Schrausser/ATINA/releases/tag/v1.0.0.
 
 ———. (2008). ConsoleApp_Tools: Console tool applications. *Code*.
