@@ -1,5 +1,5 @@
-# Schrausser_D_G_References
-## References
+# References
+## Dietmar Gerald Schrausser
 
 ### Books
 
@@ -375,13 +375,20 @@ https://doi.org/10.13140/RG.2.2.14101.40168.
 ———. 2003b. “Rawdata: SPSS Data and Syntax Files.” GitHub Repository.
 GitHub. https://github.com/Schrausser/Rawdata.
 
+———. 2006. “Advanced Tool for Integrated Algorithms: MS Windows
+interface for EEG applications).” GitHub Repository. GitHub.
+https://github.com/Schrausser/ATINA/releases/tag/v1.0.0.
+
 ———. 2008. “ConsoleApp_Tools: Console tool applications.” Code.
 ResearchGate. https://doi.org/10.5281/zenodo.7655240.
 
-———. 2009a. “Ip: Inferential permutation methods.” GitHub Repository.
+———. 2009a. “ThetaWin Overview.” Software. Academia.
+https://www.academia.edu/81800920.
+
+———. 2009b. “Ip: Inferential permutation methods.” GitHub Repository.
 GitHub. https://github.com/Schrausser/Ip/releases/tag/v1.0.0.
 
-———. 2009b. “ConsoleApp_DistributionFunctions: Console applicationes for
+———. 2009c. “ConsoleApp_DistributionFunctions: Console applicationes for
 distribution functions.” Code. ResearchGate.
 https://doi.org/10.5281/zenodo.7664141.
 
@@ -389,14 +396,19 @@ https://doi.org/10.5281/zenodo.7664141.
 calculation and tools.” Code. ResearchGate.
 https://doi.org/10.5281/zenodo.7655047.
 
-———. 2011a. “ConsoleApp_String: Console applications for string and
+———. 2011a. “Handbook Distribution Functions (Verteilungsfunktionen).”
+Handbooks. Academia. https://www.academia.edu/96844355.
+
+———. 2011b. “ConsoleApp_String: Console applications for string and
 transformation.” Code. ResearchGate.
 https://doi.org/10.5281/zenodo.7653791.
 
-———. 2011b. “ConsoleApp_Integral: Console applications for integral and
+———. 2011c. “ConsoleApp_Integral: Console applications for integral and
 interpolation.” Code. ResearchGate.
 https://doi.org/10.5281/zenodo.7655057.
 
+———. 2023. “Ptolemy’s table of chords.” Software. Academia.
+https://www.academia.edu/98253518.
 
 ### Software
 
