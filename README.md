@@ -106,9 +106,13 @@ Schrausser, D. G. (1998). Section of Differential and Diagnostical
 Psychology. *GitHub Repository*. GitHub.
 https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_0.
 
-———. (1999). Section of Differential and Diagnostical Psychology. *GitHub
-Repository*. GitHub.
+———. (1999a). Section of Differential and Diagnostical Psychology.
+*GitHub Repository*. GitHub.
 https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_1.
+
+———. (1999b). WebPages 1998-1999: Section of Differential and
+Diagnostical Psychology. *GitHub Repository. GitHub.
+https://github.com/Schrausser/WebPages_1998-1999.
 
 ———. (2000). Section of Differential Psychology. *GitHub Repository*.
 GitHub.
@@ -130,13 +134,20 @@ https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_3.zip.
 *GitHub Repository*. GitHub.
 https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk03.zip.
 
-———. (2003b). SCHRAUSSER; PS Testkonstruktion, WS 02/03. GitHub
-Repository. GitHub.
+———. (2003b). SCHRAUSSER; PS Testkonstruktion, WS 02/03. *GitHub
+Repository*. GitHub.
 https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0203.zip.
 
 ———. (2003c). SCHRAUSSER; Psychologische Forschungsmethodik II, SS 03.
 *GitHub Repository*. GitHub.
 https://github.com/Schrausser/WebPages_Lectures/blob/main/www_fm03.zip.
+
+———. (2003d). WebPages 2000-2003: Section of Differential and
+Diagnostical Psychology. *GitHub Repository*. GitHub.
+https://github.com/Schrausser/WebPages_2000-2003.
+
+———. (2003e). WebPages Lectures: Karl-Franzens University Graz. *GitHub
+Repository*. GitHub. https://github.com/Schrausser/WebPages_Lectures.
 
 ### Lectures
 
