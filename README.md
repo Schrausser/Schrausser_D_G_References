@@ -76,7 +76,7 @@ https://doi.org/10.13140/RG.2.2.13398.52807.
 
 ———. (2022). Mathematical-Statistical Algorithm Interpreter,
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
-https://doi.org/doi.org/10.13140/RG.2.2.28314.52164.
+https://doi.org/10.13140/RG.2.2.28314.52164.
 
 ———. (2023). EMDA: Treatment procedure for lateral Eye Movement
 Desensitization. PsyArXiv. https://doi.org/10.31234/osf.io/n2r5z.
