@@ -111,7 +111,7 @@ https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_0.
 https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_1.
 
 ———. (1999b). WebPages 1998-1999: Section of Differential and
-Diagnostical Psychology. *GitHub Repository. GitHub.
+Diagnostical Psychology. *GitHub Repository*. GitHub.
 https://github.com/Schrausser/WebPages_1998-1999.
 
 ———. (2000). Section of Differential Psychology. *GitHub Repository*.
