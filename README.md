@@ -78,7 +78,7 @@ https://doi.org/10.13140/RG.2.2.13398.52807.
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 https://doi.org/10.13140/RG.2.2.28314.52164.
 
-———. (2023). EMDA: Treatment procedure for lateral Eye Movement
+———. (2023a). EMDA: Treatment procedure for lateral Eye Movement
 Desensitization. PsyArXiv. https://doi.org/10.31234/osf.io/n2r5z.
 
 ———. (2023b). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). https://doi.org/10.5281/zenodo.10362091.
