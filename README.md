@@ -501,7 +501,7 @@ Zenodo. https://doi.org/10.5281/zenodo.7943339.
 Zenodo. https://doi.org/10.5281/zenodo.7644967.
 
 ———. (2023w). *Schrausser/Ptolemy-s-table-of-chords: Calculator* (version
-v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.7948117.
+v3.5.2). Zenodo. https://doi.org/10.5281/zenodo.7948117.
 
 ———. (2023x). *Schrausser/SSR: Solar System Simulation* (version
 v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
