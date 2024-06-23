@@ -252,5 +252,27 @@ references:
   type: book
   url: "https://doi.org/10.5281/zenodo.8240203"
   version: v3.7.25.2
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.10701350
+  id: schrausser_2024_10701350
+  issued: 2024-02
+  publisher: Zenodo
+  title: "Schrausser/ConsoleApp_EEG: 2.0"
+  title-short: Schrausser/ConsoleApp_EEG
+  type: book
+  url: "https://doi.org/10.5281/zenodo.10701350"
+  version: v2.0.5
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.11408734
+  id: schrausser_2024_11408734
+  issued: 2024-06
+  publisher: Zenodo
+  title: "Schrausser/ERR: earthrotation"
+  title-short: Schrausser/ERR
+  type: book
+  url: "https://doi.org/10.5281/zenodo.11408734"
+  version: v.3.5.9.5
 ---
 
