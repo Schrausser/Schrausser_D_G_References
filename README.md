@@ -433,6 +433,14 @@ https://doi.org/10.5281/zenodo.7655057.
 ———. (2023). Ptolemy’s table of chords. *Software*. Academia.
 https://www.academia.edu/98253518.
 
+———. (2024a). Schrausser/Uranologion-Tables: 1.0. *Zenodo*. https://doi.org/10.5281/zenodo.10691681.
+
+———. (2024b). Schrausser/Velho-s-Cosmographia-Tables: 1.5. *Zenodo*. https://doi.org/10.5281/zenodo.10689015.
+
+———. (2024c). Schrausser/ERD_maps_2001: 3.0. *Zenodo*. https://doi.org/10.5281/zenodo.10775762.
+
+
+
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
