@@ -99,6 +99,7 @@ references:
   publisher: PsyArXiv
   title: "[EMDA: Treatment procedure for lateral Eye Movement
     Desensitization]{.nocase}"
+  type: article-journal
   url: "https://psyarxiv.com/n2r5z/"
 - author:
   - literal: Schrausser, D. G., Draxler, J., & Plechinger, J.
@@ -117,7 +118,7 @@ references:
   issued: 2022-11
   publisher: ResearchGate
   title: EMD -- Eye Movement Desensitization
-  url: "http://dx.doi.org/10.13140/RG.2.2.13968.38404"
+  url: "http://doi.org/10.13140/RG.2.2.13968.38404"
 - author:
   - literal: Schrausser, D. G., & Scambor, C.
   container-title: Research
@@ -136,7 +137,7 @@ references:
   issued: 2022-07
   publisher: ResearchGate
   title: "[Randomizationtests: An introduction to the method]{.nocase}"
-  url: "{http://dx.doi.org/10.13140/RG.2.2.13758.66884}"
+  url: "{http://doi.org/10.13140/RG.2.2.13758.66884}"
 - author:
   - literal: Schrausser, D. G.
   container-title: Handbooks
@@ -180,5 +181,72 @@ references:
   title-short: Ptolemy's table of chords
   type: article-journal
   volume: 2023
+- abstract: Tables on the Phenomena of Aratus (e.g. Aratus & Hyginus,
+    1569) and the chronology of Maximus (c.f. Schissel, 1934) from the
+    transscription and latin translation in the famous Uranologion by
+    Denis Pétau or Dionysius Petavius (1630).
+  author:
+  - literal: Schrausser, D. G.
+  container-title: Zenodo Publications
+  doi: 10.5281/ZENODO.10694826
+  id: "https://doi.org/10.5281/zenodo.10694826"
+  issue: 2/22
+  issued: 2024
+  keyword: Astronomy Chronology Cosmology Petavius Uranologion myown
+  publisher: Zenodo
+  title: Uranologion tables
+  type: article-journal
+  url: "https://zenodo.org/doi/10.5281/zenodo.10694826"
+  volume: 2024
+- abstract: Bartholomeu Velho's Cosmographia illustration (1568, fol.
+    9v--10r) depicting his geocentric model (c.f. Domosh et al., 2020,
+    p. 28) with tables elaborated and recalculated as well as presented
+    with corresponding images of his Solar System.
+  author:
+  - literal: Schrausser, D. G.
+  container-title: Zenodo Publications
+  doi: 10.5281/ZENODO.10689064
+  id: "https://doi.org/10.5281/zenodo.10689064"
+  issue: 2/21
+  issued: 2024
+  keyword: Astronomy Cosmology Velho myown
+  publisher: Zenodo
+  title: Velho's cosmographia tables
+  type: article-journal
+  url: "https://zenodo.org/doi/10.5281/zenodo.10689064"
+  volume: 2024
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.34055/osf.io/j7ukp
+  id: schrausser_2024
+  issued: 2024-06
+  publisher: BodoArXiv
+  title: "Ptolemy's table of chords: Implications considered and
+    discussed"
+  title-short: Ptolemy's table of chords
+  type: article-journal
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.31219/osf.io/dv4nz
+  id: schrausser_2024
+  issued: 2024-05
+  publisher: OSF Preprints
+  title: "Ptolemy's table of chords: Implications considered and
+    discussed"
+  title-short: Ptolemy's table of chords
+  type: article-journal
+- abstract: Android application for displaying Earth's and local
+    magnetic field, gravity, acceleration, GPS and more. As an
+    additional tool to the SSR Solar System Simulator for orientation
+    with a particular focus on position and time determination on Earth.
+  author:
+  - literal: Schrausser, D. G.
+  container-title: ScienceOpen
+  doi: 10.14293/PR2199.000905.v1
+  id: schrausserERR2024
+  issued: 2024-06
+  keyword: GPS Gravity Magnetic_Field Simulation Software myown
+  title: ERR earthrotation
+  type: article-journal
 ---
 
