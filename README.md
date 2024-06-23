@@ -41,6 +41,8 @@ effects. *Thesis Chapters*. Academia. https://www.academia.edu/81286148.
 ———. (2022d). Thesis: Summaries and Discussions. *Thesis Chapters*.
 Academia. https://www.academia.edu/82083349.
 
+———. (2024). *Handbook: Distribution Functions (Verteilungs Funktionen)*. PsyArXiv. https://doi.org/10.31234/osf.io/rvzxa.
+
 ### Papers
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
@@ -84,6 +86,14 @@ Desensitization. PsyArXiv. https://doi.org/10.31234/osf.io/n2r5z.
 ———. (2023b). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). https://doi.org/10.5281/zenodo.10362091.
 
 ———. (2023c). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). https://doi.org/10.5281/zenodo.10338851.
+
+———. (2024a). Uranologion Tables. *Zenodo Publications 2024* (2/22). https://doi.org/10.5281/ZENODO.10694826.
+
+———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024* (2/21). https://doi.org/10.5281/ZENODO.10689064.
+
+———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, May. https://doi.org/10.31219/osf.io/dv4nz.
+
+———. (2024d). ERR Earthrotation. *ScienceOpen*, June. https://doi.org/10.14293/PR2199.000905.v1.
 
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
