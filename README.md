@@ -515,3 +515,8 @@ v3.5.2). Zenodo. https://doi.org/10.5281/zenodo.7948117.
 
 ———. (2023x). *Schrausser/SSR: Solar System Simulation* (version
 v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
+
+———. (2024a). *Schrausser/ConsoleApp_EEG: 2.0* (version v2.0.5). Zenodo. https://doi.org/10.5281/zenodo.10701350.
+
+———. (2024b). *Schrausser/ERR: Earthrotation* (version v.3.5.9.5). Zenodo. https://doi.org/10.5281/zenodo.11408734.
+
