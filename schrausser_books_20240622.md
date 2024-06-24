@@ -114,5 +114,20 @@ references:
   publisher: Academia
   title: "[Thesis: Summaries and Discussions]{.nocase}"
   url: "https://www.academia.edu/82083349"
+- abstract: Summarizing presentation of the fundamentally most important
+    distribution functions with distribution graphics and formulation.
+    Examples for the calculation in SCHRAUSSER-MAT syntax, as well as an
+    extensive collection of formulas with transformations according to
+    parameters of interest in the appendix.
+  author:
+  - literal: Schrausser, D. G.
+  doi: 10.31234/osf.io/rvzxa
+  id: Schrausser10.31234/osf.io/rvzxa
+  issued: 2024
+  keyword: myown probability statistics
+  publisher: PsyArXiv
+  title: "Handbook: Distribution functions (verteilungs funktionen)"
+  title-short: Handbook
+  type: book
 ---
 
