@@ -62,4 +62,18 @@ references:
   title-short: "[Meine sechste Arbeitsmappe]{.nocase}"
   type: book
   url: "https://www.leykamverlag.at/produkt/meine-sechste-arbeitsmappe-arbeitsbuch-fuer-die-fuenfte-schulstufe-der-sonderschule/"
---- 
+- author:
+  - literal: Schrausser, H., & et al.
+  container-title: "[Schulbuchaktion 2011/2012; Schulbuchliste
+    Volksschulen und Sonderschulen]{.nocase}"
+  id: hschrausser2012
+  issued: 2012
+  page: 57; 62
+  publisher: Bundesministerium für Wirtschaft, Familie und Jugend;
+    Bundesministerium für Unterricht, Kunst und Kultur
+  publisher-place: Vienna, Austria
+  title: "[Deutsch für Sonderschulen; Spracherziehung und Einführung in
+    die Kulturtechniken für Sonderschulen]{.nocase}"
+  type: chapter
+  url: "https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online"
+---
