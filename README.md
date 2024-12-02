@@ -531,3 +531,17 @@ v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
 ———. (2024c). *Schrausser/Batches_EEG: 1.1* (version v1.1). Zenodo. https://doi.org/10.5281/zenodo.13968251.
 
 ———. (2024d). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. https://doi.org/10.5281/zenodo.14183565.
+
+## Herfried Schrausser
+
+Schrausser, H., & et al. (2012). Deutsch für Sonderschulen; Spracherziehung und Einführung in die Kulturtechniken für Sonderschulen. In *Schulbuchaktion 2011/2012; Schulbuchliste Volksschulen und Sonderschulen*, 57; 62. Vienna, Austria: Bundesministerium für Wirtschaft, Familie und Jugend; Bundesministerium für Unterricht, Kunst und Kultur. https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online.
+
+Schrausser, H., Kerecz, M., & Petrischek, R. (2009). *Meine fünfte Arbeitsmappe: Ein Arbeitsbuch für die 4. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 4th ed. Graz: Leykam Buchverlag. https://www.leykamverlag.at/produkt/meine-fuenfte-arbeitsmappe-arbeitsbuch-fuer-die-vierte-schulstufe-der-sonderschule/.
+
+Schrausser, H., Kerecz, M., Edler, P., Petrischek, R., & Ballinger, E. (1978). *Meine erste Arbeitsmappe: Ein Arbeitsbuch für die 1. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 3rd ed. Graz: Leykam Buchverlag. https://uni.leykamverlag.at/produkt/meine-erste-arbeitsmappe-arbeitsbuch-fuer-die-erste-schulstufe-der-sonderschulen/.
+
+Schrausser, H., Kerecz, M., Petrischek, R., & Ballinger, E. (2006). *Meine sechste Arbeitsmappe: Ein Arbeitsbuch für die 5. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 3rd ed. Graz: Leykam Buchverlag. https://www.leykamverlag.at/produkt/meine-sechste-arbeitsmappe-arbeitsbuch-fuer-die-fuenfte-schulstufe-der-sonderschule/.
+
+## Ernst Bernd Schrausser
+
+Schrausser, E. B. (1973). *Haltedübel aus Kunststoff für die Befestigung von Einzeldrähten oder Drähten von Geflechten an einem Profil oder einer Platte, insbesondere bei Zäunen*. AT308372B. Patent, issued July 10, 1973. https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=AT000000308372B&xxxfull=1.
