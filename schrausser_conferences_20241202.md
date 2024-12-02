@@ -15,6 +15,19 @@ references:
   type: paper-conference
   url: "https://rgdoi.net/10.13140/RG.2.2.13962.13768"
 - author:
+  - literal: Fink, A., Schrausser, D. G., & Neubauer, A. C.
+  container-title: "[5. Tagung der Österreichischen Gesellschaft für
+    Psychologie (ÖGP)]{.nocase}"
+  doi: 10.5281/zenodo.14028752
+  id: Schrausser200203
+  issued: 2002-03
+  publisher: Universität Wien
+  publisher-place: Wien, Österreich
+  title: "[Der moderierende Einfluß von Extraversion auf die Beziehung
+    zwischen IQ und kortikaler Aktivierung]{.nocase}"
+  type: paper-conference
+  url: "https://doi.org/10.13140/RG.2.2.36307.59689"
+- author:
   - literal: Neubauer, A. C., Fink, A., & Schrausser, D. G.
   container-title: "[Symposium 'Physiological approaches to human
     intelligence' at the 10th Biennial Meeting of the International
@@ -56,7 +69,7 @@ references:
   type: paper-conference
   url: "http://dx.doi.org/10.13140/RG.2.2.16108.64640/1"
 - author:
-  - literal: Neubauer, A. C., Schrausser, D. G., Sange, G.,
+  - literal: Neubauer, A. C., Schrausser, D. G., Sange, G., &
       Pfurtscheller, G.
   container-title: "[5. Arbeitstagung der Fachgruppe Differentielle
     Psychologie, Persönlichkeitspsychologie & Psychologische
@@ -97,6 +110,18 @@ references:
   type: paper-conference
   url: "http://dx.doi.org/10.13140/RG.2.2.34909.08166"
 - author:
+  - literal: Fink, A., Schrausser, D. G., & Neubauer, A. C.
+  container-title: "[6. Arbeitstagung der Fachgruppe Differentielle
+    Psychologie, Persönlichkeitspsychologie & Psychologische
+    Diagnostik]{.nocase}"
+  id: Schrausser200109
+  issued: 2001-09
+  publisher: Universität Leipzig
+  publisher-place: Leipzig, Deutschland
+  title: "[Der moderierende Einfluß von Extraversion auf die Beziehung
+    zwischen IQ und kortikaler Aktivierung]{.nocase}"
+  type: paper-conference
+- author:
   - literal: Freudenthaler, H. H., Schrausser, D. G., Pfurtscheller, G.,
       & Neubauer, A. C.
   container-title: "[XXVII International Congress of
@@ -130,11 +155,10 @@ references:
     Psychologie (ÖGP)]{.nocase}"
   doi: 10.13140/RG.2.2.14805.91369
   id: SchrausserRG.2.2.14805.91369
-  issued: 2002-03
+  issued: 1997-12
   publisher: Universität Salzburg
   publisher-place: Salzburg, Österreich
   title: "[Exakte Verfahren oder Asymptotische Approximation?]{.nocase}"
   type: paper-conference
   url: "http://dx.doi.org/10.13140/RG.2.2.14805.91369"
 ---
-
