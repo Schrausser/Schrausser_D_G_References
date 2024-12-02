@@ -528,3 +528,6 @@ v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
 
 ———. (2024b). *Schrausser/ERR: Earthrotation* (version v.3.5.9.5). Zenodo. https://doi.org/10.5281/zenodo.11408734.
 
+———. (2024c). *Schrausser/Batches_EEG: 1.1* (version v1.1). Zenodo. https://doi.org/10.5281/zenodo.13968251.
+
+———. (2024d). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. https://doi.org/10.5281/zenodo.14183565.
