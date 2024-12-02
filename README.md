@@ -26,7 +26,7 @@ https://doi.org/10.13140/RG.2.2.10698.44482.
 ———. (1998). Exakte Verfahren oder Asymptotische Approximation? In
 *Perspektiven Psychologischer Forschung in Österreich*, edited by Glück,
 J., Jirasco, M., & Rollett, B. Vol. 2. WUV-Univ.-Verl., Wien.
-https://www.worldcat.org/de/title/75975252.
+https://doi.org/10.5281/zenodo.11673333.
 
 ———. (2022a). Thesis chapter 1: Introduction. *Thesis Chapters*. Academia.
 https://www.academia.edu/82224369.
@@ -201,7 +201,7 @@ Leipzig, Deutschland: Universität Leipzig.
 ———. (2002). Der moderierende Einfluß von Extraversion auf die Beziehung
 zwischen IQ und kortikaler Aktivierung. In *5. Tagung der
 Österreichischen Gesellschaft für Psychologie (ÖGP)*. Wien, Österreich:
-Universität Wien.
+Universität Wien. https://doi.org/10.5281/zenodo.14028752.
 
 Freudenthaler, H. H., Schrausser, D. G., Pfurtscheller, G., & Neubauer,
 A. C. (2000). Gender differences in the relationship between intelligence
