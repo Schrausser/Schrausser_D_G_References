@@ -28,6 +28,7 @@ references:
 - author:
   - literal: Schrausser, D. G.
   container-title: Perspektiven psychologischer forschung in österreich
+  doi: 10.5281/zenodo.11673333
   editor:
   - literal: Glück, J., Jirasco, M., & Rollett, B.
   id: Schrausser75975252
@@ -130,4 +131,3 @@ references:
   title-short: Handbook
   type: book
 ---
-
