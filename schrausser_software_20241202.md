@@ -274,5 +274,26 @@ references:
   type: book
   url: "https://doi.org/10.5281/zenodo.11408734"
   version: v.3.5.9.5
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.13968251
+  id: schrausser_2024_13968251
+  issued: 2024-10
+  publisher: Zenodo
+  title: "Schrausser/batches_EEG: 1.1"
+  title-short: Schrausser/batches_EEG
+  type: book
+  url: "https://doi.org/10.5281/zenodo.13968251"
+  version: v1.1
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.14183565
+  id: schrausser_2024_14183565
+  issued: 2024-11
+  publisher: Zenodo
+  title: "Schrausser/abh_wkt: 1.5"
+  title-short: Schrausser/abh_wkt
+  type: book
+  url: "https://doi.org/10.5281/zenodo.14183565"
+  version: v1.5.0
 ---
-
