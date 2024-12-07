@@ -296,4 +296,15 @@ references:
   type: book
   url: "https://doi.org/10.5281/zenodo.14183565"
   version: v1.5.0
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.14280500
+  id: schrausser_2024_14280500
+  issued: 2024-12
+  publisher: Zenodo
+  title: "Schrausser/various_programs: 3.5"
+  title-short: Schrausser/various_programs
+  type: book
+  url: "https://doi.org/10.5281/zenodo.14280500"
+  version: v3.5.2
 ---
