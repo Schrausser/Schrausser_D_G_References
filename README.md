@@ -532,6 +532,8 @@ v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
 
 ———. (2024d). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. https://doi.org/10.5281/zenodo.14183565.
 
+———. (2024e). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. https://doi.org/10.5281/zenodo.14280500.
+
 ## Herfried Schrausser
 
 Schrausser, H., & et al. (2012). Deutsch für Sonderschulen; Spracherziehung und Einführung in die Kulturtechniken für Sonderschulen. In *Schulbuchaktion 2011/2012; Schulbuchliste Volksschulen und Sonderschulen*, 57; 62. Vienna, Austria: Bundesministerium für Wirtschaft, Familie und Jugend; Bundesministerium für Unterricht, Kunst und Kultur. https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online.
