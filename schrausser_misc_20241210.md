@@ -173,5 +173,21 @@ references:
   title-short: Schrausser/ERD_maps_2001
   url: "https://doi.org/10.5281/zenodo.10775762"
   version: v3.5.0
+- abstract: Description of the necessary steps for the installation of
+    EEG cap and electrodes within the FWF project P13461, Neuronale
+    Effizienz des Gehirns als physiologische Grundlage menschlicher
+    Intelligenz (Neural efficiency of the brain as physiological basis
+    of human intelligence).
+  author:
+  - literal: Schrausser, D. G., & Neubauer, A. C.
+  doi: 10.5281/zenodo.14364000
+  id: schrausser_2024_14364000
+  issued: 2024-12
+  keyword: eeg erd intelligence myown
+  publisher: Zenodo
+  title: "P13461 instruction movie: Installation of EEG cap and
+    electrodes"
+  title-short: P13461 instruction movie
+  type: webpage
+  url: "https://doi.org/10.5281/zenodo.14364000"
 ---
-
