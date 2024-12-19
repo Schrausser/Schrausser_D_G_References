@@ -534,7 +534,9 @@ v3.7.25.2). Zenodo. https://doi.org/10.5281/zenodo.8240203.
 
 ———. (2024d). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. https://doi.org/10.5281/zenodo.14183565.
 
-———. (2024e). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. https://doi.org/10.5281/zenodo.14280500.
+———. (2024e). *Schrausser/PSXm: 2.1* (version v2.1.0-beta). Zenodo. https://doi.org/10.5281/zenodo.14520297.
+
+———. (2024f). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. https://doi.org/10.5281/zenodo.14280500.
 
 ## Herfried Schrausser
 
