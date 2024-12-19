@@ -439,6 +439,8 @@ https://www.academia.edu/98253518.
 
 ———. (2024c). Schrausser/ERD_maps_2001: 3.0. *Zenodo*. https://doi.org/10.5281/zenodo.10775762.
 
+———. 2024d. Schrausser/The_Nuremberg_Cronicle_1493_Transcriptions: 2.0. *Zenodo*. https://doi.org/10.5281/zenodo.14515635.
+
 Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. https://doi.org/10.5281/zenodo.14364000.
 
 ### Software
