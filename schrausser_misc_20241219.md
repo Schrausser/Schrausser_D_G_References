@@ -190,4 +190,33 @@ references:
   title-short: P13461 instruction movie
   type: webpage
   url: "https://doi.org/10.5281/zenodo.14364000"
+- abstract: "Et greci viri clarissimi qui historias collegeru\\[n\\]t:
+    affirmaru\\[n\\]t. Una\\[m\\] ante iniciu\\[m\\] omniu\\[m\\] celi \\[et\\]
+    terre cu\\[n\\]ctis simul \\[con\\]fusis forma\\[m\\] fuisse: postea
+    disseparatis: diuisisq\\[ue\\] molibus cepisse mundu\\[m\\] hunc ordinem
+    quem videmus.Vn\\[d\\] die kriechische\\[n\\] hocherlewchten man\\[n\\]
+    durch die die hystorien vnd geschichte\\[n\\] versamelt worde sind.
+    habe\\[n\\] auch veriehen das vor anbegynn\\[\\] aller ding des himels
+    vnd der erde\\[n\\] dieweill noch yde ding bayaynander ware\\[n\\] ein
+    eynige form gewesen sei: un\\[d\\] darnach nach absunderu\\[n\\]g
+    vn\\[d\\] zertaylu\\[n\\]g der beyeina\\[n\\]der gewesen pürde. die werlt
+    dise odnung vnd gestalt die wir sehen empfange\\[n\\] hab.And the
+    highly enlightened Greeks who collected all the histories and
+    accounts subscribed to the theory that before the beginning of all
+    things of heaven and earth and while these things were still
+    together, there was but a single form; that later through separation
+    and division of matter, the world took on the order and structure in
+    which we now see it."
+  author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.14515635
+  id: schrausser_2024_14515635
+  issued: 2024-12
+  keyword: aristotle astronomy cicero cosmology epicur greek_philosophy
+    history hylomorphism metaphysics myown philosophy philosophy-of-mind
+    plato ptolemy yle
+  publisher: Zenodo
+  title: "Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions: 2.0"
+  url: "https://doi.org/10.5281/zenodo.14515635"
+  version: v2.0.0
 ---
