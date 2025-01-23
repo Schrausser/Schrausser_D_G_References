@@ -307,4 +307,28 @@ references:
   type: book
   url: "https://doi.org/10.5281/zenodo.14280500"
   version: v3.5.2
+- author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.14520297
+  id: schrausser_2024_14520297
+  issued: 2024-12
+  publisher: Zenodo
+  title: "Schrausser/PSXm: 2.1"
+  title-short: Schrausser/PSXm
+  type: book
+  url: "https://doi.org/10.5281/zenodo.14520297"
+  version: v2.1.0-beta
+- abstract: Mathematical and statistical applications for HP Prime.
+  author:
+  - literal: Schrausser, D. G.
+  doi: 10.5281/zenodo.14721085
+  id: schrausser_2025_14721085
+  issued: 2025-01
+  keyword: bootstrapping calculus complex_plane hp_prime myown
+    permutation_test probability resampling statistics
+  publisher: Zenodo
+  title: "Schrausser/HP_Prime_MATH: 1.5"
+  type: webpage
+  url: "https://doi.org/10.5281/zenodo.14721085"
+  version: v1.5.0
 ---
