@@ -43,6 +43,8 @@ Academia. https://www.academia.edu/82083349.
 
 ———. (2024). *Handbook: Distribution Functions (Verteilungs Funktionen)*. PsyArXiv. https://doi.org/10.31234/osf.io/rvzxa.
 
+———. (2025). *HP_Prime_MATH: Manual*. 1st ed. https://doi.org/10.5281/zenodo.15713317.
+
 ### Papers
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
