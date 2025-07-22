@@ -391,6 +391,8 @@ https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5.
 Focussation-Level of Cortical Activation. *Method*. ResearchGate.
 https://doi.org/10.13140/RG.2.2.32114.17601.
 
+———. (2000c). Spectral and Coherence Analysis: Algorithms. *Method*. ResearchGate. https://doi.org/10.13140/RG.2.2.28637.90083
+
 ———. (2001). ERD Maps. *Data*. ResearchGate.
 https://doi.org/10.13140/RG.2.2.15939.37928.
 
