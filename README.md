@@ -271,112 +271,112 @@ Psychologie (ÖGP)*. Wien, Österreich: Universität Wien.
 
 Schrausser, D. G. (1994). EMDA_Treatment: Procedure to demonstrate the
 affect-reducing effect of EMD. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7651366.
+[https://doi.org/10.5281/zenodo.7651366](https://doi.org/10.5281/zenodo.7651366)
 
 ———. (2000). ConsoleApp_EEG: erc.c (Event Related Coherence). *Code*.
-ResearchGate. https://doi.org/10.13140/RG.2.2.26549.96483.
+ResearchGate. [https://doi.org/10.13140/RG.2.2.26549.96483](https://doi.org/10.13140/RG.2.2.26549.96483)
 
 ———. (2008a). ConsoleApp_String: AZUBE.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.21508.81281.
+[https://doi.org/10.13140/RG.2.2.21508.81281](https://doi.org/10.13140/RG.2.2.21508.81281)
 
 ———. (2008b). Schrausser/DTO: File Organizing Tool. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7659246.
+[https://doi.org/10.5281/zenodo.7659246](https://doi.org/10.5281/zenodo.7659246)
 
 ———. (2009a). FunktionWin: Binomial.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.16685.36326.
+[https://doi.org/10.13140/RG.2.2.16685.36326](https://doi.org/10.13140/RG.2.2.16685.36326)
 
 ———. (2009b). FunktionWin: F_Function.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.13749.35040.
+[https://doi.org/10.13140/RG.2.2.13749.35040](https://doi.org/10.13140/RG.2.2.13749.35040)
 
 ———. (2009c). FunktionWin: Fisher_Exact.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.20040.80642.
+[https://doi.org/10.13140/RG.2.2.20040.80642](https://doi.org/10.13140/RG.2.2.20040.80642)
 
 ———. (2009d). FunktionWin: Geometric.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.30526.56649.
+[https://doi.org/10.13140/RG.2.2.30526.56649](https://doi.org/10.13140/RG.2.2.30526.56649)
 
 ———. (2009e). FunktionWin: Hypergeometric.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.25073.97120.
+[https://doi.org/10.13140/RG.2.2.25073.97120](https://doi.org/10.13140/RG.2.2.25073.97120)
 
 ———. (2009f). FunktionWin: t_Function.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.27171.12320.
+[https://doi.org/10.13140/RG.2.2.27171.12320](https://doi.org/10.13140/RG.2.2.27171.12320)
 
 ———. (2009g). FunktionWin: x2_Function.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.30107.13605.
+[https://doi.org/10.13140/RG.2.2.30107.13605](https://doi.org/10.13140/RG.2.2.30107.13605)
 
 ———. (2009h). FunktionWin: z_Dichte.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.33882.00967.
+[https://doi.org/10.13140/RG.2.2.33882.00967](https://doi.org/10.13140/RG.2.2.33882.00967)
 
 ———. (2009i). FunktionWin: Fisher_Z.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.32481.17767.
+[https://doi.org/10.13140/RG.2.2.32481.17767](https://doi.org/10.13140/RG.2.2.32481.17767)
 
 ———. (2009j). FunktionWin: GAMMA.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.10393.90722.
+[https://doi.org/10.13140/RG.2.2.10393.90722](https://doi.org/10.13140/RG.2.2.10393.90722)
 
 ———. (2009k). ConsoleApp_DistributionFunctions: Verteilungsform.c. *Code*.
-ResearchGate. https://doi.org/10.13140/RG.2.2.33636.04489.
+ResearchGate. [https://doi.org/10.13140/RG.2.2.33636.04489](https://doi.org/10.13140/RG.2.2.33636.04489)
 
 ———. (2009l). ConsoleApp_DistributionFunctions: Verteilungsform_kor.c.
-*Code*. ResearchGate. https://doi.org/10.13140/RG.2.2.25247.43685.
+*Code*. ResearchGate. [https://doi.org/10.13140/RG.2.2.25247.43685](https://doi.org/10.13140/RG.2.2.25247.43685)
 
 ———. (2009m). FunktionWin: Poisson.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.23186.53440.
+[https://doi.org/10.13140/RG.2.2.23186.53440](https://doi.org/10.13140/RG.2.2.23186.53440)
 
 ———. (2009n). ThetaWin: Distribution simulator. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7659263.
+[https://doi.org/10.5281/zenodo.7659263](https://doi.org/10.5281/zenodo.7659263)
 
 ———. (2010a). FunktionWin: epsilon.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.11324.51847/1.
+[https://doi.org/10.13140/RG.2.2.11324.51847/1](https://doi.org/10.13140/RG.2.2.11324.51847/1)
 
 ———. (2010b). FunktionWin: Windows Interface for distribution functions.
-*Code*. ResearchGate. https://doi.org/10.5281/zenodo.7651660.
+*Code*. ResearchGate. [https://doi.org/10.5281/zenodo.7651660](https://doi.org/10.5281/zenodo.7651660)
 
 ———. (2011a). ConsoleApp_Integral: KUSF.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.28396.64648.
+[https://doi.org/10.13140/RG.2.2.28396.64648](https://doi.org/10.13140/RG.2.2.28396.64648)
 
 ———. (2011b). ConsoleApp_Integral: KUSI.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.18330.31683.
+[https://doi.org/10.13140/RG.2.2.18330.31683](https://doi.org/10.13140/RG.2.2.18330.31683)
 
 ———. (2011c). ConsoleApp_Integral: NWTI.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.32748.23683.
+[https://doi.org/10.13140/RG.2.2.32748.23683](https://doi.org/10.13140/RG.2.2.32748.23683)
 
 ———. (2011d). ConsoleApp_Integral: NWTP.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.29392.79366.
+[https://doi.org/10.13140/RG.2.2.29392.79366](https://doi.org/10.13140/RG.2.2.29392.79366)
 
 ———. (2011e). ConsoleApp_Integral: ROME.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.36103.68009.
+[https://doi.org/10.13140/RG.2.2.36103.68009](https://doi.org/10.13140/RG.2.2.36103.68009)
 
 ———. (2011f). ConsoleApp_Integral: ROMI.c. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.22681.90729.
+[https://doi.org/10.13140/RG.2.2.22681.90729](https://doi.org/10.13140/RG.2.2.22681.90729)
 
 ———. (2011g). SCR-EMD: Windows screensaver simulating EMD treatment.
-*Code*. ResearchGate. https://doi.org/10.5281/zenodo.7658857.
+*Code*. ResearchGate. [https://doi.org/10.5281/zenodo.7658857](https://doi.org/10.5281/zenodo.7658857)
 
 ———. (2011h). UHRwin: Time application for MS Windows. *Code*.
-ResearchGate. https://doi.org/10.5281/zenodo.7654049.
+ResearchGate. [https://doi.org/10.5281/zenodo.7654049](https://doi.org/10.5281/zenodo.7654049)
 
 ———. (2011i). DICEwin: DICE for Windows. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7644967.
+[https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
 
 ———. (2011j). DAT: Matrices and raw data editor. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7651151.
+[https://doi.org/10.5281/zenodo.7651151](https://doi.org/10.5281/zenodo.7651151)
 
 ———. (2011k). GRP2. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7647467.
+[https://doi.org/10.5281/zenodo.7647467](https://doi.org/10.5281/zenodo.7647467)
 
 ———. (2017). EMD_Android_APK: 4.5. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7644237.
+[https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
 
 ———. (2022). SCHRAUSSER-MAT. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.14377.26727.
+[https://doi.org/10.13140/RG.2.2.14377.26727](https://doi.org/10.13140/RG.2.2.14377.26727)
 
 ———. (2023a). SCHRAUSSER-MAT SCR: CLR7r. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.16344.57600/1.
+[https://doi.org/10.13140/RG.2.2.16344.57600/1](https://doi.org/10.13140/RG.2.2.16344.57600/1)
 
 ———. (2023b). RND1n: Random Number Screen. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7977257.
+[https://doi.org/10.5281/zenodo.7977257](https://doi.org/10.5281/zenodo.7977257)
 
 ———. (2023c). DICEandro: DICE for Android. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7943339.
+[https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.7943339)
 
 ### more
 
@@ -385,67 +385,67 @@ the Vienna Development Study (WES). Wiener Entwicklungsstudie, WES.
 
 ———. (2000a). ConsoleApp_EEG: Console applications for calculating EEG
 parameters. *GitHub Repository*. GitHub.
-https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5.
+[https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5](https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5)
 
 ———. (2000b). Development of a Parameter to Indicate the
 Focussation-Level of Cortical Activation. *Method*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.32114.17601.
+[https://doi.org/10.13140/RG.2.2.32114.17601](https://doi.org/10.13140/RG.2.2.32114.17601)
 
-———. (2000c). Spectral and Coherence Analysis: Algorithms. *Method*. ResearchGate. https://doi.org/10.13140/RG.2.2.28637.90083
+———. (2000c). Spectral and Coherence Analysis: Algorithms. *Method*. ResearchGate. [https://doi.org/10.13140/RG.2.2.28637.90083](https://doi.org/10.13140/RG.2.2.28637.90083)
 
 ———. (2001). ERD Maps. *Data*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.15939.37928.
+[https://doi.org/10.13140/RG.2.2.15939.37928](https://doi.org/10.13140/RG.2.2.15939.37928)
 
 ———. (2003a). Meta-C Questionnaires. *Method*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.14101.40168.
+[https://doi.org/10.13140/RG.2.2.14101.40168](https://doi.org/10.13140/RG.2.2.14101.40168)
 
 ———. (2003b). Rawdata: SPSS Data and Syntax Files.*GitHub Repository*.
-GitHub. https://github.com/Schrausser/Rawdata.
+GitHub. [https://github.com/Schrausser/Rawdata](https://github.com/Schrausser/Rawdata)
 
 ———. (2006). Advanced Tool for Integrated Algorithms: MS Windows
 interface for EEG applications. *GitHub Repository*. GitHub.
-https://github.com/Schrausser/ATINA/releases/tag/v1.0.0.
+[https://github.com/Schrausser/ATINA/releases/tag/v1.0.0](https://github.com/Schrausser/ATINA/releases/tag/v1.0.0)
 
 ———. (2008). ConsoleApp_Tools: Console tool applications. *Code*.
-ResearchGate. https://doi.org/10.5281/zenodo.7655240.
+ResearchGate. [https://doi.org/10.5281/zenodo.7655240](https://doi.org/10.5281/zenodo.7655240)
 
 ———. (2009a). ThetaWin Overview. *Software*. Academia.
-https://www.academia.edu/81800920.
+[https://www.academia.edu/81800920](https://www.academia.edu/81800920)
 
 ———. (2009b). Ip: Inferential permutation methods.*GitHub Repository*.
-GitHub. https://github.com/Schrausser/Ip/releases/tag/v1.0.0.
+GitHub. [https://github.com/Schrausser/Ip/releases/tag/v1.0.0](https://github.com/Schrausser/Ip/releases/tag/v1.0.0)
 
 ———. (2009c). ConsoleApp_DistributionFunctions: Console applicationes for
 distribution functions. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7664141.
+[https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
 
 ———. (2010). ConsoleApp_Matrix: Console applications for matrix
 calculation and tools. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7655047.
+[https://doi.org/10.5281/zenodo.7655047](https://doi.org/10.5281/zenodo.7655047)
 
 ———. (2011a). Handbook Distribution Functions (Verteilungsfunktionen).
-*Handbooks*. Academia. https://www.academia.edu/96844355.
+*Handbooks*. Academia. [https://www.academia.edu/96844355](https://www.academia.edu/96844355)
 
 ———. (2011b). ConsoleApp_String: Console applications for string and
 transformation. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7653791.
+[https://doi.org/10.5281/zenodo.7653791](https://doi.org/10.5281/zenodo.7653791)
 
 ———. (2011c). ConsoleApp_Integral: Console applications for integral and
 interpolation. *Code*. ResearchGate.
-https://doi.org/10.5281/zenodo.7655057.
+[https://doi.org/10.5281/zenodo.7655057](https://doi.org/10.5281/zenodo.7655057)
 
 ———. (2023). Ptolemy’s table of chords. *Software*. Academia.
-https://www.academia.edu/98253518.
+[https://www.academia.edu/98253518](https://www.academia.edu/98253518)
 
-———. (2024a). Schrausser/Uranologion-Tables: 1.0. *Zenodo*. https://doi.org/10.5281/zenodo.10691681.
+———. (2024a). Schrausser/Uranologion-Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.10691681](https://doi.org/10.5281/zenodo.10691681)
 
-———. (2024b). Schrausser/Velho-s-Cosmographia-Tables: 1.5. *Zenodo*. https://doi.org/10.5281/zenodo.10689015.
+———. (2024b). Schrausser/Velho-s-Cosmographia-Tables: 1.5. *Zenodo*. [https://doi.org/10.5281/zenodo.10689015](https://doi.org/10.5281/zenodo.10689015)
 
-———. (2024c). Schrausser/ERD_maps_2001: 3.0. *Zenodo*. https://doi.org/10.5281/zenodo.10775762.
+———. (2024c). Schrausser/ERD_maps_2001: 3.0. *Zenodo*. [https://doi.org/10.5281/zenodo.10775762](https://doi.org/10.5281/zenodo.10775762)
 
-———. 2024d. Schrausser/The_Nuremberg_Cronicle_1493_Transcriptions: 2.0. *Zenodo*. https://doi.org/10.5281/zenodo.14515635.
+———. 2024d. Schrausser/The_Nuremberg_Cronicle_1493_Transcriptions: 2.0. *Zenodo*. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
 
-Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. https://doi.org/10.5281/zenodo.14364000.
+Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
 
 ### Software
 
