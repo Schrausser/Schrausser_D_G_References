@@ -49,26 +49,26 @@ Academia. [https://www.academia.edu/82083349](https://www.academia.edu/82083349)
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
 influence of extraversion on the relationship between IQ and cortical
-activation. *Personality and Individual Differences* 33 (2): 311–26.
+activation. *Personality and Individual Differences 33* (2): 311–26.
 [http://doi.org/10.1016/S0191-8869(01)00157-X](http://doi.org/10.1016/S0191-8869(01)00157-X)
 
 Freudenthaler, H. H., Neubauer, A. C., Pfurtscheller, G., & Schrausser,
 D. G. (2000). State-of-the-Art Lectures, Invited Symposia, Keynote
 Addresses, Poster session: Sex differences in the relationship between
 intelligence and cortical activation. *International Journal of
-Psychology* 35 (3–4): 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
+Psychology 35* (3–4): 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
 
 Neubauer, A. C., Fink, A., & Schrausser, D. G. (2002). Intelligence and
 neural efficiency: The influence of task content and sex on the brain -
-IQ relationship. *Intelligence* 30 (6): 515–36.
+IQ relationship. *Intelligence 30* (6): 515–36.
 [http://doi.org/10.1016/S0160-2896(02)00091-0](http://doi.org/10.1016/S0160-2896(02)00091-0)
 
 Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. (2000). Psychometrische Intelligenz und kortikale Aktivierung bei der
 Bearbeitung kognitiver Aufgaben. *Zeitschrift für Differentielle und
-Diagnostische Psychologie* 21 (3): 200–207.
+Diagnostische Psychologie 21* (3): 200–207.
 [https://doi.org/10.1024//0170-1789.21.3.200](https://doi.org/10.1024//0170-1789.21.3.200)
 
-Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau* 50 (2): 123–26.
+Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau 50* (2): 123–26.
 [https://doi.org/10.1026//0033-3042.50.2.123](https://doi.org/10.1026//0033-3042.50.2.123)
 
 ———. (2008). File organizing tool, DTO: Manual. *Handbooks*. Academia.
@@ -82,7 +82,7 @@ Aspekte. *Research*. ResearchGate.
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 [https://doi.org/10.13140/RG.2.2.28314.52164](https://doi.org/10.13140/RG.2.2.28314.52164)
 
-———. (2023a). EMDA: Treatment procedure for lateral Eye Movement Desensitization. PsyArXiv. [https://doi.org/10.31234/osf.io/n2r5z](https://doi.org/10.31234/osf.io/n2r5z)
+———. (2023a). EMDA: Treatment procedure for lateral Eye Movement Desensitization. *PsyArXiv*, May, 1–6. [https://doi.org/10.31234/osf.io/n2r5z](https://doi.org/10.31234/osf.io/n2r5z)
 
 ———. (2023b). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
 
@@ -92,7 +92,7 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024* (2/21). [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
 
-———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, May. [https://doi.org/10.31219/osf.io/dv4nz](https://doi.org/10.31219/osf.io/dv4nz)
+———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
