@@ -96,6 +96,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
+———. (2025). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)
