@@ -92,11 +92,11 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024* (2/21). [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
 
-———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
+———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
-———. (2025). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
+———. (2025). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
 
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
