@@ -543,7 +543,9 @@ v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.
 
 ———. (2024f). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.14280500](https://doi.org/10.5281/zenodo.14280500)
 
-———. (2025). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
+———. (2025a). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
+
+———. (2025b). *Schrausser/LV: 3.8*. Zenodo. July 2025. [https://doi.org/10.5281/zenodo.16502602](https://doi.org/10.5281/zenodo.16502602)
 
 ## Herfried Schrausser
 
