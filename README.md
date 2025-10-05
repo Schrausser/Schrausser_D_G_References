@@ -96,7 +96,9 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
-———. (2025). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
+———. (2025a). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
+
+———. (2025b). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
 
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
