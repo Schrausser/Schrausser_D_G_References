@@ -49,26 +49,26 @@ Academia. [https://www.academia.edu/82083349](https://www.academia.edu/82083349)
 
 Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
 influence of extraversion on the relationship between IQ and cortical
-activation. *Personality and Individual Differences 33* (2): 311–26.
+activation. *Personality and Individual Differences, 33*(2), 311–26.
 [http://doi.org/10.1016/S0191-8869(01)00157-X](http://doi.org/10.1016/S0191-8869(01)00157-X)
 
 Freudenthaler, H. H., Neubauer, A. C., Pfurtscheller, G., & Schrausser,
 D. G. (2000). State-of-the-Art Lectures, Invited Symposia, Keynote
 Addresses, Poster session: Sex differences in the relationship between
 intelligence and cortical activation. *International Journal of
-Psychology 35* (3–4): 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
+Psychology, 35*(3–4), 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
 
 Neubauer, A. C., Fink, A., & Schrausser, D. G. (2002). Intelligence and
 neural efficiency: The influence of task content and sex on the brain -
-IQ relationship. *Intelligence 30* (6): 515–36.
+IQ relationship. *Intelligence, 30*(6), 515–36.
 [http://doi.org/10.1016/S0160-2896(02)00091-0](http://doi.org/10.1016/S0160-2896(02)00091-0)
 
 Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. (2000). Psychometrische Intelligenz und kortikale Aktivierung bei der
 Bearbeitung kognitiver Aufgaben. *Zeitschrift für Differentielle und
-Diagnostische Psychologie 21* (3): 200–207.
+Diagnostische Psychologie, 21*(3), 200–7.
 [https://doi.org/10.1024//0170-1789.21.3.200](https://doi.org/10.1024//0170-1789.21.3.200)
 
-Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau 50* (2): 123–26.
+Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau, 50*(2), 123–26.
 [https://doi.org/10.1026//0033-3042.50.2.123](https://doi.org/10.1026//0033-3042.50.2.123)
 
 ———. (2008). File organizing tool, DTO: Manual. *Handbooks*. Academia.
