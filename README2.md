@@ -1,6 +1,13 @@
-# References Dietmar Gerald Schrausser by subject area
+# References by subject area
+
+**Dietmar Gerald Schrausser, 2025**  
+[orcid.org/0000-0002-4924-8280](https://orcid.org/0000-0002-4924-8280)
+
+<br>
 
 ## Introduction to SPSS [Methodology]
+
+---
 
 ### Book
 
@@ -28,7 +35,11 @@ Syntax. *Code*. ResearchGate.
 ———. (2003c). Rawdata: SPSS Data and Syntax Files.*GitHub Repository*.
 GitHub. [https://github.com/Schrausser/Rawdata](https://github.com/Schrausser/Rawdata)
 
+<br>
+
 ## EMDR [Cognitive Science, Neuropsychology]
+
+---
 
 ### Papers
 
@@ -64,8 +75,11 @@ affect-reducing effect of EMD* (version v1.0.0). Zenodo.
 Treatment* (version v1.0.0). Zenodo.
 [https://doi.org/10.5281/zenodo.7658856](https://doi.org/10.5281/zenodo.7658856)
 
+<br>
 
 ## Permutation Tests [Methodology]
+
+---
 
 ### Book/Thesis
 
@@ -137,7 +151,11 @@ Zenodo. [https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.
 ———. (2023c). *Schrausser/DICEwin: DICE for Windows* (version v1.0.5).
 Zenodo. [https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
 
+<br>
+
 ## MetaC [Cognitive Science]
+
+---
 
 ### Conference
 
@@ -166,8 +184,11 @@ Rohdaten. *Data*. ResearchGate.
 Syntax. *Code*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.21420.13445/1](https://doi.org/10.13140/RG.2.2.21420.13445/1)
 
+<br>
 
 ## Neural Efficiency [Cognitive Science, Neuropsychology]
+
+---
 
 ### Conferences
 
@@ -283,7 +304,11 @@ Focussation-Level of Cortical Activation. *Method*. ResearchGate.
 
 Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
 
+<br>
+
 ## SCHRAUSSER-MAT [Methodology]
+
+---
 
 ### Books
 
@@ -324,7 +349,11 @@ v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.528
 
 ———. (2025). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
 
+<br>
+
 ## Cosmology [Methodology, Cognitive Science]
+
+---
 
 ### Papers
 
@@ -356,8 +385,11 @@ Schrausser, D. G. (2024). Schrausser/The_Nuremberg_Chronicle_1493_Transcription
 
 ———. (2025). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
 
+<br>
 
 ## Software and Applications [Methodology]
+
+---
 
 ### Book
 
