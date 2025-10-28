@@ -357,7 +357,11 @@ v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.528
 
 ### Papers
 
-Schrausser, D. G. (2023a). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
+Schrausser, D. G. (2009). Psychisches und Physisches als einander implizierende
+Aspekte. *Research*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.13398.52807](https://doi.org/10.13140/RG.2.2.13398.52807)
+
+———. (2023a). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
 
 ———. (2023b). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). [https://doi.org/10.5281/zenodo.10338851](https://doi.org/10.5281/zenodo.10338851)
 
