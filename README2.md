@@ -150,8 +150,13 @@ Deutschland: Bergische Universität Wuppertal.
 
 ### more
 
-Schrausser, D. G. (2003a). Meta-C Questionnaires. *Method*. ResearchGate.
+Schrausser, D. G. (2003). Meta-C Questionnaires. *Method*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.14101.40168](https://doi.org/10.13140/RG.2.2.14101.40168)
+
+### Lectures
+
+———. (2003a). Konstruktion Psychologischer Tests, SS 03. *Method*.
+ResearchGate. [https://doi.org/10.13140/RG.2.2.24225.07527](https://doi.org/10.13140/RG.2.2.24225.07527)
 
 ———. (2003b). Konstruktion psychologischer Tests, SS 03: Meta-C, SPSS
 Rohdaten. *Data*. ResearchGate.
@@ -344,6 +349,12 @@ v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.7948117](https://doi.org/10.528
 v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.5281/zenodo.8240203)
 
 ———. (2024). *Schrausser/ERR: Earthrotation* (version v.3.5.9.5). Zenodo. [https://doi.org/10.5281/zenodo.11408734](https://doi.org/10.5281/zenodo.11408734)
+
+### more
+
+Schrausser, D. G. (2024). Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions: 2.0. *Zenodo*. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
+
+———. (2025). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
 
 
 ## Software and Applications [Methodology]
