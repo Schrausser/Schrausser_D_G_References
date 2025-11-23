@@ -100,6 +100,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2025b). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
 
+———. (2025c). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)

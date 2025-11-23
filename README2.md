@@ -1,7 +1,11 @@
 # References by subject area
+[DOI:10.17605/OSF.IO/FWY2K](https://doi.org/10.17605/OSF.IO/FWY2K)
+
+<br>
 
 **Dietmar Gerald Schrausser, 2025**  
 [orcid.org/0000-0002-4924-8280](https://orcid.org/0000-0002-4924-8280)
+
 
 <br>
 
@@ -314,11 +318,11 @@ Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Install
 
 Schrausser, D. G. (2022). Mathematical-Statistical Algorithm Interpreter,
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
-[https://doi.org/10.13140/RG.2.2.28314.52164](https://doi.org/10.13140/RG.2.2.28314.52164)
+[https://www.academia.edu/81395688](https://www.academia.edu/81395688) [https://doi.org/10.17605/OSF.IO/8XE42](https://doi.org/10.17605/OSF.IO/8XE42)
 
 ———. (2024). *Handbook: Distribution Functions (Verteilungs Funktionen)*. PsyArXiv. [https://doi.org/10.31234/osf.io/rvzxa](https://doi.org/10.31234/osf.io/rvzxa)
 
-———. (2025). *HP_Prime_MATH: Manual*. 1st ed. [https://doi.org/10.5281/zenodo.15713317](https://doi.org/10.5281/zenodo.15713317)
+———. (2025). *HP_Prime_MATH: Manual*. 1st ed. [https://openlibrary.org/books/OL60452436M](https://openlibrary.org/books/OL60452436M)
 
 ### Paper
 
@@ -363,7 +367,7 @@ Aspekte. *Research*. ResearchGate.
 
 ———. (2023a). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
 
-———. (2023b). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). [https://doi.org/10.5281/zenodo.10338851](https://doi.org/10.5281/zenodo.10338851)
+———. (2023b). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). [https://doi.org/10.5281/zenodo.10338851](https://doi.org/10.5281/zenodo.10338851) [https://doi.org/10.17605/OSF.IO/VBYDX](https://doi.org/10.17605/OSF.IO/VBYDX)
 
 ———. (2024a). Uranologion Tables. *Zenodo Publications 2024* (2/22). [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
 
@@ -400,9 +404,11 @@ Schrausser, D. G. (2024). Schrausser/The_Nuremberg_Chronicle_1493_Transcription
 Schrausser, D. G. (2008). File organizing tool, DTO: Manual. *Handbooks*. Academia.
 [https://www.academia.edu/81738669](https://www.academia.edu/81738669)
 
-### Paper
+### Papers
 
-Schrausser, D. G. (2025). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
+Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
+
+———. (2025b). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
 
 ### Software
 
