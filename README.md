@@ -102,6 +102,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2025c). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
 
+———. (2025d). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)

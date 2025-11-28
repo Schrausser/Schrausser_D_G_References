@@ -410,6 +410,8 @@ Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Softwar
 
 ———. (2025b). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
 
+———. (2025c). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
+
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
