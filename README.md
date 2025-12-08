@@ -452,7 +452,11 @@ interpolation. *Code*. ResearchGate.
 
 ———. (2024d). Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions: 2.0. *Zenodo*. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
 
-———. (2025). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
+———. (2025a). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
+
+———. (2025b). *Sim01/Simulation study: Mean dispersion*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/VDX25](https://doi.org/10.17605/OSF.IO/VDX25)
+
+———. (2025c). *Sim03/Simulation study: Correlation*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/DRBC9](https://doi.org/10.17605/OSF.IO/DRBC9)
 
 Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
 

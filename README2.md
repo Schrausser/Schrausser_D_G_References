@@ -353,6 +353,13 @@ v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.528
 
 ———. (2025). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
 
+### more
+
+Schrausser, D. G. (2025a). *Sim01/Simulation study: Mean dispersion*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/VDX25](https://doi.org/10.17605/OSF.IO/VDX25)
+
+———. (2025b). *Sim03/Simulation study: Correlation*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/DRBC9](https://doi.org/10.17605/OSF.IO/DRBC9)
+
+
 <br>
 
 ## Cosmology [Methodology, Cognitive Science]
