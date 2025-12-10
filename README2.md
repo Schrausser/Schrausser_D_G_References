@@ -419,6 +419,8 @@ Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Softwar
 
 ———. (2025c). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
 
+———. (2025d). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
+
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
