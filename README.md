@@ -15,7 +15,7 @@ science. *Thesis Chapters*. Academia. [https://www.academia.edu/94482216](https:
 
 Schrausser, D. G. (1996a). Permutationstests: Theoretische und praktische
 Arbeitsweise von Permutationsverfahren beim unverbundenen 2
-Stichprobenproblem. Mag.rer.nat., Universität Graz:
+Stichprobenproblem. Universität Graz:
 Naturwissenschaftliche Fakultät.
 [https://doi.org/10.13140/RG.2.2.24500.32640/1](https://doi.org/10.13140/RG.2.2.24500.32640/1)
 
