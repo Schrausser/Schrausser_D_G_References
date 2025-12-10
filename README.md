@@ -104,6 +104,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2025d). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
 
+———. (2025e). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10): 1. [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)
