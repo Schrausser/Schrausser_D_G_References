@@ -400,6 +400,8 @@ Schrausser, D. G. (2024). Schrausser/The_Nuremberg_Chronicle_1493_Transcription
 
 ———. (2025). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
 
+———. (2026). *The Nuremberg Chronicle 1493.* Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/J5BR9](https://doi.org/10.17605/OSF.IO/J5BR9)
+
 <br>
 
 ## Software and Applications [Methodology]
