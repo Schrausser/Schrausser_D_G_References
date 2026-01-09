@@ -94,7 +94,7 @@ references:
   id: Schrausser368664086
   issued: 2009-11
   publisher: ResearchGate
-  title: "[ConsoleApp_DistributionFunctions: Console applicationes for
+  title: "[ConsoleApp_DistributionFunctions: Console applications for
     distribution functions]{.nocase}"
   url: "https://www.researchgate.net/publication/368664086"
 - author:

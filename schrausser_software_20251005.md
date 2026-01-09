@@ -163,7 +163,7 @@ references:
   issued: 2023-02
   publisher: Zenodo
   title: "[Schrausser/ConsoleApp_DistributionFunctions: Console
-    applicationes for distribution functions]{.nocase}"
+    applications for distribution functions]{.nocase}"
   type: book
   url: "https://doi.org/10.5281/zenodo.7664141"
   version: v1.0.0

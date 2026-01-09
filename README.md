@@ -424,7 +424,7 @@ ResearchGate. [https://doi.org/10.5281/zenodo.7655240](https://doi.org/10.5281/z
 ———. (2009b). Ip: Inferential permutation methods.*GitHub Repository*.
 GitHub. [https://github.com/Schrausser/Ip/releases/tag/v1.0.0](https://github.com/Schrausser/Ip/releases/tag/v1.0.0)
 
-———. (2009c). ConsoleApp_DistributionFunctions: Console applicationes for
+———. (2009c). ConsoleApp_DistributionFunctions: Console applications for
 distribution functions. *Code*. ResearchGate.
 [https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
 
@@ -468,7 +468,7 @@ Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Install
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
-Console applicationes for distribution functions* (version v1.0.0).
+Console applications for distribution functions* (version v1.0.0).
 Zenodo. [https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
 
 ———. (2023b). *Schrausser/ConsoleApp_Integral: Console applications for
