@@ -426,7 +426,7 @@ Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Softwar
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
-Console applicationes for distribution functions* (version v1.0.0).
+Console applications for distribution functions* (version v1.0.0).
 Zenodo. [https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
 
 ———. (2023b). *Schrausser/ConsoleApp_Integral: Console applications for
