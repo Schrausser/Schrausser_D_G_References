@@ -1,0 +1,206 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{Dietmar Gerald SCHRAUSSER}
+\date{14.04.2026}
+
+\begin{document}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{1}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserWES96}{}}%
+Schrausser, D. G. 1996. {``{Scientific advice and data analysis as part
+of the Vienna Development Study (WES)}.''} Wiener Entwicklungsstudie,
+WES.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserConsoleAppEEG}{}}%
+---------. 2000a. {``{ConsoleApp\_EEG: Console applications for
+calculating EEG parameters}.''} \emph{GitHub Repository}. GitHub.
+\url{https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserEEGalgorithms}{}}%
+---------. 2000b. {``{Spectral and Coherence Analysis: Algorithms}.''}
+\emph{Method}. ResearchGate.
+\url{https://doi.org/10.13140/RG.2.2.28637.90083}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserRG.2.2.32114.17601}{}}%
+---------. 2000c. {``Development of a Parameter to Indicate the
+Focussation-Level of Cortical Activation.''} \emph{Method}.
+ResearchGate. \url{https://doi.org/10.13140/RG.2.2.32114.17601}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserRG.2.2.15939.37928}{}}%
+---------. 2001. {``ERD Maps.''} \emph{Data}. ResearchGate.
+\url{https://doi.org/10.13140/RG.2.2.15939.37928}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserRG.2.2.14101.40168}{}}%
+---------. 2003a. {``{Meta-C Questionnaires}.''} \emph{Method}.
+ResearchGate. \url{https://doi.org/10.13140/RG.2.2.14101.40168}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserRawdata}{}}%
+---------. 2003b. {``{Rawdata: SPSS Data and Syntax Files}.''}
+\emph{GitHub Repository}. GitHub.
+\url{https://github.com/Schrausser/Rawdata}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserATINA10}{}}%
+---------. 2006. {``{Advanced Tool for Integrated Algorithms: MS Windows
+interface for EEG applications}.''} \emph{GitHub Repository}. GitHub.
+\url{https://github.com/Schrausser/ATINA/releases/tag/v1.0.0}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser368647314}{}}%
+---------. 2008. {``{ConsoleApp\_Tools: Console tool applications}.''}
+\emph{Code}. ResearchGate. \url{https://doi.org/10.5281/zenodo.7655240}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser81800920}{}}%
+---------. 2009a. {``{ThetaWin Overview}.''} \emph{Software}. Academia.
+\url{https://www.academia.edu/81800920}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-SchrausserIp}{}}%
+---------. 2009b. {``{Ip: Inferential permutation methods}.''}
+\emph{GitHub Repository}. GitHub.
+\url{https://github.com/Schrausser/Ip/releases/tag/v1.0.0}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser368664086}{}}%
+---------. 2009c. {``{ConsoleApp\_DistributionFunctions: Console
+applications for distribution functions}.''} \emph{Code}. ResearchGate.
+\url{https://doi.org/10.5281/zenodo.7664141}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser368647047}{}}%
+---------. 2010. {``{ConsoleApp\_Matrix: Console applications for matrix
+calculation and tools}.''} \emph{Code}. ResearchGate.
+\url{https://doi.org/10.5281/zenodo.7655047}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser96844355}{}}%
+---------. 2011a. {``{Handbook Distribution Functions
+(Verteilungsfunktionen)}.''} \emph{Handbooks}. Academia.
+\url{https://www.academia.edu/96844355}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser368646989}{}}%
+---------. 2011b. {``{ConsoleApp\_String: Console applications for
+string and transformation}.''} \emph{Code}. ResearchGate.
+\url{https://doi.org/10.5281/zenodo.7653791}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser368662683}{}}%
+---------. 2011c. {``{ConsoleApp\_Integral: Console applications for
+integral and interpolation}.''} \emph{Code}. ResearchGate.
+\url{https://doi.org/10.5281/zenodo.7655057}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-Schrausser98253518}{}}%
+---------. 2023. {``{Ptolemy's table of chords}.''} \emph{Software}.
+Academia. \url{https://www.academia.edu/98253518}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2024_10691681}{}}%
+---------. 2024a. {``Schrausser/Uranologion-Tables: 1.0.''} Zenodo.
+\url{https://doi.org/10.5281/zenodo.10691681}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2024_10689015}{}}%
+---------. 2024b. {``Schrausser/Velho-s-Cosmographia-Tables: 1.5.''}
+Zenodo. \url{https://doi.org/10.5281/zenodo.10689015}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2024_10775762}{}}%
+---------. 2024c. {``Schrausser/ERD\_maps\_2001: 3.0.''} Zenodo.
+\url{https://doi.org/10.5281/zenodo.10775762}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2024_14515635}{}}%
+---------. 2024d.
+{``{Schrausser/The\_Nuremberg\_Chronicle\_1493\_Transcriptions: 2.0}.''}
+Zenodo. \url{https://doi.org/10.5281/zenodo.14515635}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2025_16777128}{}}%
+---------. 2025a.
+{``{Schrausser/The\_Nuremberg\_Chronicle\_1493\_Tables: 1.0}.''} Zenodo.
+\url{https://doi.org/10.5281/zenodo.16777128}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2025_10.17605ux2fOSF.IOux2fVDX25}{}}%
+---------. 2025b. {``Sim01/Simulation Study: Mean Dispersion.''} Open
+Science Framework OSF. \url{https://doi.org/10.17605/OSF.IO/VDX25}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2025_10.17605ux2fOSF.IOux2fDRBC9}{}}%
+---------. 2025c. {``Sim03/Simulation Study: Correlation.''} Open
+Science Framework OSF. \url{https://doi.org/10.17605/OSF.IO/DRBC9}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser2026nuremberg}{}}%
+---------. 2026a.
+{``Schrausser/the\_nuremberg\_chronicle\_1493\_sources: 1.0.''} Zenodo.
+\url{https://doi.org/10.5281/zenodo.19239636}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-https:ux2fux2fdoi.orgux2f10.17605ux2fosf.ioux2fj5br9}{}}%
+---------. 2026b. {``The Nuremberg Chronicle 1493.''} Open Science
+Framework OSF. \url{https://doi.org/10.17605/OSF.IO/J5BR9}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-schrausser_2024_14364000}{}}%
+Schrausser, D. G., \& Neubauer, A. C. 2024. {``P13461 Instruction Movie:
+Installation of EEG Cap and Electrodes.''} Zenodo. December 2024.
+\url{https://doi.org/10.5281/zenodo.14364000}.
+
+\end{CSLReferences}
+
+\end{document}
