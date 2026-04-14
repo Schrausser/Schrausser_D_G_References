@@ -1,7 +1,118 @@
-# References
-## Dietmar Gerald Schrausser
+# References by subject area
+[DOI:10.17605/OSF.IO/FWY2K](https://doi.org/10.17605/OSF.IO/FWY2K)
 
-### Books
+<br>
+
+**Dietmar Gerald Schrausser, 2026**  
+[orcid.org/0000-0002-4924-8280](https://orcid.org/0000-0002-4924-8280)
+
+
+<br>
+
+## Introduction to SPSS [Methodology]
+
+---
+
+### Book
+
+Schrausser, D. G. (1996). Einführung in die Benutzung von SPSS. In *Methoden
+Skriptum*, edited by ÖH. Österreichische Hochschülerschaft, ÖH.
+[https://doi.org/10.13140/RG.2.2.10698.44482](https://doi.org/10.13140/RG.2.2.10698.44482)
+
+### Lectures
+
+Schrausser, D. G. (1997a). Einführung in die Benutzung von SPSS:
+Beispielsammlung. *Method*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.14300.97921](https://doi.org/10.13140/RG.2.2.14300.97921)
+
+Schrausser, D. G. (1997b). Einführung in die Benutzung von SPSS: Beispielsammlung /
+Daten. *Data*. ResearchGate. [https://doi.org/10.13140/RG.2.2.35075.89126](https://doi.org/10.13140/RG.2.2.35075.89126)
+
+———. (2003a). Konstruktion psychologischer Tests, SS 03: Meta-C, SPSS
+Rohdaten. *Data*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.17354.95688](https://doi.org/10.13140/RG.2.2.17354.95688)
+
+———. (2003b). Konstruktion psychologischer Tests, SS 03: Meta-C, SPSS
+Syntax. *Code*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.21420.13445/1](https://doi.org/10.13140/RG.2.2.21420.13445/1)
+
+———. (2003c). Rawdata: SPSS Data and Syntax Files.*GitHub Repository*.
+GitHub. [https://github.com/Schrausser/Rawdata](https://github.com/Schrausser/Rawdata)
+
+<br>
+
+## EMDR [Cognitive Science, Neuropsychology]
+
+---
+
+### Papers
+
+Schrausser, D. G. (2023). EMDA: Treatment procedure for lateral Eye Movement Desensitization. *PsyArXiv*, May, 1–6. [https://doi.org/10.31234/osf.io/n2r5z](https://doi.org/10.31234/osf.io/n2r5z)
+
+Schrausser, D. G., Draxler, J., & Plechinger, J. (1994). EMD – Eye
+Movement Desensitization. *Research*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.28498.02247/2](https://doi.org/10.13140/RG.2.2.28498.02247/2)
+
+———. (2022). EMD – Eye Movement Desensitization. *Research*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.13968.38404](https://doi.org/10.13140/RG.2.2.13968.38404)
+
+### Software
+
+Schrausser, D. G. (1994). EMDA_Treatment: Procedure to demonstrate the
+affect-reducing effect of EMD. *Code*. ResearchGate.
+[https://doi.org/10.5281/zenodo.7651366](https://doi.org/10.5281/zenodo.7651366)
+
+———. (2011). SCR-EMD: Windows screensaver simulating EMD treatment.
+*Code*. ResearchGate. [https://doi.org/10.5281/zenodo.7658857](https://doi.org/10.5281/zenodo.7658857)
+
+———. (2017). EMD_Android_APK: 4.5. *Code*. ResearchGate.
+[https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
+
+———. (2023a). *Schrausser/EMDA_Treatment: Procedure to demonstrate the
+affect-reducing effect of EMD* (version v1.0.0). Zenodo.
+[https://doi.org/10.5281/zenodo.7651366](https://doi.org/10.5281/zenodo.7651366)
+
+———. (2023b). *Schrausser/EMD_Android_APK: 4.5* (version v4.5.7). Zenodo.
+[https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
+
+———. (2023c). *Schrausser/SCR-EMD: Windows screensaver simulating EMD
+Treatment* (version v1.0.0). Zenodo.
+[https://doi.org/10.5281/zenodo.7658856](https://doi.org/10.5281/zenodo.7658856)
+
+<br>
+
+## Permutation Tests [Methodology]
+
+---
+
+### Book/Thesis
+
+Schrausser, D. G. (1996). Permutationstests: Theoretische und praktische
+Arbeitsweise von Permutationsverfahren beim unverbundenen 2
+Stichprobenproblem. Universität Graz:
+Naturwissenschaftliche Fakultät.
+[https://doi.org/10.13140/RG.2.2.24500.32640/1](https://doi.org/10.13140/RG.2.2.24500.32640/1)
+
+### Conferences
+
+Schrausser, D. G. (1997). Exakte Verfahren oder Asymptotische
+Approximation? In *3. Tagung der österreichischen Gesellschaft für
+Psychologie (ÖGP)*. Salzburg, Österreich: Universität Salzburg.
+[https://doi.org/10.13140/RG.2.2.14805.91369](https://doi.org/10.13140/RG.2.2.14805.91369)
+
+———. (1998). Die Permutationsmethode: Voraussetzungsfrei testen. In *41.
+Kongreß der Deutschen Gesellschaft für Psychologie*. Dresden,
+Deutschland: Technische Universität Dresden.
+[https://doi.org/10.13140/RG.2.2.19532.69768](https://doi.org/10.13140/RG.2.2.19532.69768)
+
+### Book chapter
+
+Schrausser, D. G. (1998). Exakte Verfahren oder Asymptotische Approximation? In
+*Perspektiven Psychologischer Forschung in Österreich*, edited by Glück,
+J., Jirasco, M., & Rollett, B. Vol. 2. WUV-Univ.-Verl., Wien.
+[https://doi.org/10.5281/zenodo.11673333](https://doi.org/10.5281/zenodo.11673333)
+
+### Papers
 
 Scambor, C., & Schrausser, D. G. (2023a). Introduction (part II,
 permutation tests for repeated measurement designs). *Thesis Chapters*.
@@ -13,22 +124,7 @@ Academia. [https://www.academia.edu/94481830](https://www.academia.edu/94481830)
 ———. (2023c). Statistical methods from the point of view of philosophy of
 science. *Thesis Chapters*. Academia. [https://www.academia.edu/94482216](https://www.academia.edu/94482216)
 
-Schrausser, D. G. (1996a). Permutationstests: Theoretische und praktische
-Arbeitsweise von Permutationsverfahren beim unverbundenen 2
-Stichprobenproblem. Universität Graz:
-Naturwissenschaftliche Fakultät.
-[https://doi.org/10.13140/RG.2.2.24500.32640/1](https://doi.org/10.13140/RG.2.2.24500.32640/1)
-
-———. (1996b). Einführung in die Benutzung von SPSS. In *Methoden
-Skriptum*, edited by ÖH. Österreichische Hochschülerschaft, ÖH.
-[https://doi.org/10.13140/RG.2.2.10698.44482](https://doi.org/10.13140/RG.2.2.10698.44482)
-
-———. (1998). Exakte Verfahren oder Asymptotische Approximation? In
-*Perspektiven Psychologischer Forschung in Österreich*, edited by Glück,
-J., Jirasco, M., & Rollett, B. Vol. 2. WUV-Univ.-Verl., Wien.
-[https://doi.org/10.5281/zenodo.11673333](https://doi.org/10.5281/zenodo.11673333)
-
-———. (2022a). Thesis chapter 1: Introduction. *Thesis Chapters*. Academia.
+Schrausser, D. G. (2022a). Thesis chapter 1: Introduction. *Thesis Chapters*. Academia.
 [https://www.academia.edu/82224369](https://www.academia.edu/82224369)
 
 ———. (2022b). Thesis chapter 2: Random selection as correlative
@@ -41,73 +137,6 @@ effects. *Thesis Chapters*. Academia. [https://www.academia.edu/81286148](https:
 ———. (2022d). Thesis: Summaries and Discussions. *Thesis Chapters*.
 Academia. [https://www.academia.edu/82083349](https://www.academia.edu/82083349)
 
-———. (2024). *Handbook: Distribution Functions (Verteilungs Funktionen)*. PsyArXiv. [https://doi.org/10.31234/osf.io/rvzxa](https://doi.org/10.31234/osf.io/rvzxa)
-
-———. (2025). *HP_Prime_MATH: Manual*. 1st ed. [https://doi.org/10.5281/zenodo.15713317](https://doi.org/10.5281/zenodo.15713317)
-
-### Papers
-
-Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
-influence of extraversion on the relationship between IQ and cortical
-activation. *Personality and Individual Differences, 33*(2), 311–26.
-[http://doi.org/10.1016/S0191-8869(01)00157-X](http://doi.org/10.1016/S0191-8869(01)00157-X)
-
-Freudenthaler, H. H., Neubauer, A. C., Pfurtscheller, G., & Schrausser,
-D. G. (2000). State-of-the-Art Lectures, Invited Symposia, Keynote
-Addresses, Poster session: Sex differences in the relationship between
-intelligence and cortical activation. *International Journal of
-Psychology, 35*(3–4), 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
-
-Neubauer, A. C., Fink, A., & Schrausser, D. G. (2002). Intelligence and
-neural efficiency: The influence of task content and sex on the brain -
-IQ relationship. *Intelligence, 30*(6), 515–36.
-[http://doi.org/10.1016/S0160-2896(02)00091-0](http://doi.org/10.1016/S0160-2896(02)00091-0)
-
-Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. (2000). Psychometrische Intelligenz und kortikale Aktivierung bei der
-Bearbeitung kognitiver Aufgaben. *Zeitschrift für Differentielle und
-Diagnostische Psychologie, 21*(3), 200–7.
-[https://doi.org/10.1024//0170-1789.21.3.200](https://doi.org/10.1024//0170-1789.21.3.200)
-
-Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau, 50*(2), 123–26.
-[https://doi.org/10.1026//0033-3042.50.2.123](https://doi.org/10.1026//0033-3042.50.2.123)
-
-———. (2008). File organizing tool, DTO: Manual. *Handbooks*. Academia.
-[https://www.academia.edu/81738669](https://www.academia.edu/81738669)
-
-———. (2009). Psychisches und Physisches als einander implizierende
-Aspekte. *Research*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.13398.52807](https://doi.org/10.13140/RG.2.2.13398.52807)
-
-———. (2022). Mathematical-Statistical Algorithm Interpreter,
-SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
-[https://doi.org/10.13140/RG.2.2.28314.52164](https://doi.org/10.13140/RG.2.2.28314.52164)
-
-———. (2023a). EMDA: Treatment procedure for lateral Eye Movement Desensitization. *PsyArXiv*, May, 1–6. [https://doi.org/10.31234/osf.io/n2r5z](https://doi.org/10.31234/osf.io/n2r5z)
-
-———. (2023b). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
-
-———. (2023c). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). [https://doi.org/10.5281/zenodo.10338851](https://doi.org/10.5281/zenodo.10338851)
-
-———. (2024a). Uranologion Tables. *Zenodo Publications 2024* (2/22). [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
-
-———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024* (2/21). [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
-
-———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
-
-———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
-
-———. (2025a). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
-
-———. (2025b). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
-
-———. (2025c). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
-
-———. (2025d). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
-
-———. (2025e). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
-
-———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. *Zenodo Software Documentation 2026* (04/13): 1–18. [https://doi.org/10.5281/zenodo.19546342](https://doi.org/10.5281/zenodo.19546342)
-
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)
@@ -115,78 +144,38 @@ Einführung in die Methode. *Research*. ResearchGate.
 ———. (2022). Randomizationtests: An introduction to the method.
 *Research*. ResearchGate. [https://doi.org/10.13140/RG.2.2.13758.66884](https://doi.org/10.13140/RG.2.2.13758.66884)
 
-Schrausser, D. G., Draxler, J., & Plechinger, J. (1994). EMD – Eye
-Movement Desensitization. *Research*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.28498.02247/2](https://doi.org/10.13140/RG.2.2.28498.02247/2)
+### Software
 
-———. (2022). EMD – Eye Movement Desensitization. *Research*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.13968.38404](https://doi.org/10.13140/RG.2.2.13968.38404)
+Schrausser, D. G. (2023a). *Schrausser/RND1n: Random Number Screen* (version v2.6.3).
+Zenodo. [https://doi.org/10.5281/zenodo.7977257](https://doi.org/10.5281/zenodo.7977257)
 
-Schrausser, D. G., Fink, A., & Neubauer, A. C. (2003). Intelligence and
-neural efficiency: Sex- and task-related effects on EEG coherence. 
- *International Journal of Psychophysiology*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.28760.16646](https://doi.org/10.13140/RG.2.2.28760.16646)
+———. (2023b). *Schrausser/DICEandro: DICE for Android* (version v1.5.3).
+Zenodo. [https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.7943339)
 
-### WWW
+———. (2023c). *Schrausser/DICEwin: DICE for Windows* (version v1.0.5).
+Zenodo. [https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
 
-Schrausser, D. G. (1998). Section of Differential and Diagnostical
-Psychology. *GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_0](https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_0)
+<br>
 
-———. (1999a). Section of Differential and Diagnostical Psychology.
-*GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_1](https://github.com/Schrausser/WebPages_1998-1999/tree/main/www_1)
+## MetaC [Cognitive Science]
 
-———. (1999b). WebPages 1998-1999: Section of Differential and
-Diagnostical Psychology. *GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_1998-1999](https://github.com/Schrausser/WebPages_1998-1999)
+---
 
-———. (2000). Section of Differential Psychology. *GitHub Repository*.
-GitHub.
-[https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_2.zip](https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_2.zip)
+### Conference
 
-———. (2001). SCHRAUSSER; PS Testkonstruktion, WS 2000/2001. *GitHub
-Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0001.zip](https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0001.zip)
+Schrausser, D. G. (1999). Konstruktion einer Skala zur Erfassung selbstwahrgenommener
+Leistungsfähigkeit in 3 Inhaltsklassen Psychometrischer Intelligenz. In
+*5. Arbeitstagung der Fachgruppe Differentielle Psychologie,
+Persönlichkeitspsychologie & Psychologische Diagnostik*. Wuppertal,
+Deutschland: Bergische Universität Wuppertal.
+[https://doi.org/10.13140/RG.2.2.33203.50721](https://doi.org/10.13140/RG.2.2.33203.50721)
 
-———. (2002a). SCHRAUSSER; Experimentalpsychologie I, SS 2002. *GitHub
-Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_Lectures/blob/main/www_exI02.zip](https://github.com/Schrausser/WebPages_Lectures/blob/main/www_exI02.zip)
+### more
 
-———. (2002b). Section of Differential Psychology. *GitHub Repository*.
-GitHub.
-[https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_3.zip](https://github.com/Schrausser/WebPages_2000-2003/blob/main/www_3.zip)
-
-———. (2003a). SCHRAUSSER; Konstruktion psychologischer Tests, SS 03.
-*GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk03.zip](https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk03.zip)
-
-———. (2003b). SCHRAUSSER; PS Testkonstruktion, WS 02/03. *GitHub
-Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0203.zip](https://github.com/Schrausser/WebPages_Lectures/blob/main/www_tk0203.zip)
-
-———. (2003c). SCHRAUSSER; Psychologische Forschungsmethodik II, SS 03.
-*GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_Lectures/blob/main/www_fm03.zip](https://github.com/Schrausser/WebPages_Lectures/blob/main/www_fm03.zip)
-
-———. (2003d). WebPages 2000-2003: Section of Differential and
-Diagnostical Psychology. *GitHub Repository*. GitHub.
-[https://github.com/Schrausser/WebPages_2000-2003](https://github.com/Schrausser/WebPages_2000-2003)
-
-———. (2003e). WebPages Lectures: Karl-Franzens University Graz. *GitHub
-Repository*. GitHub. [https://github.com/Schrausser/WebPages_Lectures](https://github.com/Schrausser/WebPages_Lectures)
+Schrausser, D. G. (2003). Meta-C Questionnaires. *Method*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.14101.40168](https://doi.org/10.13140/RG.2.2.14101.40168)
 
 ### Lectures
-
-Schrausser, D. G. (1997a). Einführung in die Benutzung von SPSS:
-Beispielsammlung. *Method*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.14300.97921](https://doi.org/10.13140/RG.2.2.14300.97921)
-
-———. (1997b). Einführung in die Benutzung von SPSS: Beispielsammlung /
-Daten. *Data*. ResearchGate. [https://doi.org/10.13140/RG.2.2.35075.89126](https://doi.org/10.13140/RG.2.2.35075.89126)
-
-———. (2002). Experimentalpsychologie I, SS 2002. *Method*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.34370.04807](https://doi.org/10.13140/RG.2.2.34370.04807)
 
 ———. (2003a). Konstruktion Psychologischer Tests, SS 03. *Method*.
 ResearchGate. [https://doi.org/10.13140/RG.2.2.24225.07527](https://doi.org/10.13140/RG.2.2.24225.07527)
@@ -199,9 +188,11 @@ Rohdaten. *Data*. ResearchGate.
 Syntax. *Code*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.21420.13445/1](https://doi.org/10.13140/RG.2.2.21420.13445/1)
 
-———. (2003d). Psychologische Forschungsmethodik II, SS 03. *Method*.
-ResearchGate. [https://doi.org/10.13140/RG.2.2.21472.56324](https://doi.org/10.13140/RG.2.2.21472.56324)
+<br>
 
+## Neural Efficiency [Cognitive Science, Neuropsychology]
+
+---
 
 ### Conferences
 
@@ -249,23 +240,6 @@ Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie &
 Psychologische Diagnostik*. Wuppertal, Deutschland: Bergische Universität
 Wuppertal. [https://doi.org/10.13140/RG.2.2.13162.59847](https://doi.org/10.13140/RG.2.2.13162.59847)
 
-Schrausser, D. G. (1997). Exakte Verfahren oder Asymptotische
-Approximation? In *3. Tagung der österreichischen Gesellschaft für
-Psychologie (ÖGP)*. Salzburg, Österreich: Universität Salzburg.
-[https://doi.org/10.13140/RG.2.2.14805.91369](https://doi.org/10.13140/RG.2.2.14805.91369)
-
-———. (1998). Die Permutationsmethode: Voraussetzungsfrei testen. In *41.
-Kongreß der Deutschen Gesellschaft für Psychologie*. Dresden,
-Deutschland: Technische Universität Dresden.
-[https://doi.org/10.13140/RG.2.2.19532.69768](https://doi.org/10.13140/RG.2.2.19532.69768)
-
-———. (1999). Konstruktion einer Skala zur Erfassung selbstwahrgenommener
-Leistungsfähigkeit in 3 Inhaltsklassen Psychometrischer Intelligenz. In
-*5. Arbeitstagung der Fachgruppe Differentielle Psychologie,
-Persönlichkeitspsychologie & Psychologische Diagnostik*. Wuppertal,
-Deutschland: Bergische Universität Wuppertal.
-[https://doi.org/10.13140/RG.2.2.33203.50721](https://doi.org/10.13140/RG.2.2.33203.50721)
-
 Schrausser, D. G., Fink, A., & Neubauer, A. C. (2001). Intelligence and
 neural efficiency as determined by EEG-Coherence. In *Symposium
 ’Physiological approaches to human intelligence’ at the 10th Biennial
@@ -278,104 +252,89 @@ EEG-Kohärenz. In *5. Tagung der Österreichischen Gesellschaft für
 Psychologie (ÖGP)*. Wien, Österreich: Universität Wien.
 [https://doi.org/10.13140/RG.2.2.13962.13768](https://doi.org/10.13140/RG.2.2.13962.13768)
 
-### Source codes
+### Papers
 
-Schrausser, D. G. (1994). EMDA_Treatment: Procedure to demonstrate the
-affect-reducing effect of EMD. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7651366](https://doi.org/10.5281/zenodo.7651366)
+Fink, A., Schrausser, D. G., & Neubauer, A. C. (2002). The moderating
+influence of extraversion on the relationship between IQ and cortical
+activation. *Personality and Individual Differences, 33*(2), 311–26.
+[http://doi.org/10.1016/S0191-8869(01)00157-X](http://doi.org/10.1016/S0191-8869(01)00157-X)
 
-———. (2000). ConsoleApp_EEG: erc.c (Event Related Coherence). *Code*.
-ResearchGate. [https://doi.org/10.13140/RG.2.2.26549.96483](https://doi.org/10.13140/RG.2.2.26549.96483)
+Freudenthaler, H. H., Neubauer, A. C., Pfurtscheller, G., & Schrausser,
+D. G. (2000). State-of-the-Art Lectures, Invited Symposia, Keynote
+Addresses, Poster session: Sex differences in the relationship between
+intelligence and cortical activation. *International Journal of
+Psychology, 35*(3–4), 55. [https://doi.org/10.1080/00207594.2000.20000724](https://doi.org/10.1080/00207594.2000.20000724)
 
-———. (2008a). ConsoleApp_String: AZUBE.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.21508.81281](https://doi.org/10.13140/RG.2.2.21508.81281)
+Neubauer, A. C., Fink, A., & Schrausser, D. G. (2002). Intelligence and
+neural efficiency: The influence of task content and sex on the brain -
+IQ relationship. *Intelligence, 30*(6), 515–36.
+[http://doi.org/10.1016/S0160-2896(02)00091-0](http://doi.org/10.1016/S0160-2896(02)00091-0)
 
-———. (2008b). Schrausser/DTO: File Organizing Tool. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7659246](https://doi.org/10.5281/zenodo.7659246)
+Neubauer, A. C., Schrausser, D. G., & Freudenthaler, H. H. (2000). Psychometrische Intelligenz und kortikale Aktivierung bei der
+Bearbeitung kognitiver Aufgaben. *Zeitschrift für Differentielle und
+Diagnostische Psychologie, 21*(3), 200–7.
+[https://doi.org/10.1024//0170-1789.21.3.200](https://doi.org/10.1024//0170-1789.21.3.200)
 
-———. (2009a). FunktionWin: Binomial.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.16685.36326](https://doi.org/10.13140/RG.2.2.16685.36326)
+Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychologische Rundschau, 50*(2), 123–26.
+[https://doi.org/10.1026//0033-3042.50.2.123](https://doi.org/10.1026//0033-3042.50.2.123)
 
-———. (2009b). FunktionWin: F_Function.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.13749.35040](https://doi.org/10.13140/RG.2.2.13749.35040)
+Schrausser, D. G., Fink, A., & Neubauer, A. C. (2003). Intelligence and
+neural efficiency: Sex- and task-related effects on EEG coherence. 
+ *International Journal of Psychophysiology*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.28760.16646](https://doi.org/10.13140/RG.2.2.28760.16646)
 
-———. (2009c). FunktionWin: Fisher_Exact.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.20040.80642](https://doi.org/10.13140/RG.2.2.20040.80642)
+### Software
 
-———. (2009d). FunktionWin: Geometric.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.30526.56649](https://doi.org/10.13140/RG.2.2.30526.56649)
+Schrausser, D. G. (2000). ConsoleApp_EEG: Console applications for calculating EEG
+parameters. *GitHub Repository*. GitHub.
+[https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5](https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5)
 
-———. (2009e). FunktionWin: Hypergeometric.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.25073.97120](https://doi.org/10.13140/RG.2.2.25073.97120)
+———. (2006). Advanced Tool for Integrated Algorithms: MS Windows
+interface for EEG applications. *GitHub Repository*. GitHub.
+[https://github.com/Schrausser/ATINA/releases/tag/v1.0.0](https://github.com/Schrausser/ATINA/releases/tag/v1.0.0)
 
-———. (2009f). FunktionWin: t_Function.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.27171.12320](https://doi.org/10.13140/RG.2.2.27171.12320)
+———. (2024). *Schrausser/Batches_EEG: 1.1* (version v1.1). Zenodo. [https://doi.org/10.5281/zenodo.13968251](https://doi.org/10.5281/zenodo.13968251)
 
-———. (2009g). FunktionWin: x2_Function.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.30107.13605](https://doi.org/10.13140/RG.2.2.30107.13605)
+### more
 
-———. (2009h). FunktionWin: z_Dichte.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.33882.00967](https://doi.org/10.13140/RG.2.2.33882.00967)
+Schrausser, D. G. (2000a). Development of a Parameter to Indicate the
+Focussation-Level of Cortical Activation. *Method*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.32114.17601](https://doi.org/10.13140/RG.2.2.32114.17601)
 
-———. (2009i). FunktionWin: Fisher_Z.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.32481.17767](https://doi.org/10.13140/RG.2.2.32481.17767)
+———. (2000b). Spectral and Coherence Analysis: Algorithms. *Method*. ResearchGate. [https://doi.org/10.13140/RG.2.2.28637.90083](https://doi.org/10.13140/RG.2.2.28637.90083)
 
-———. (2009j). FunktionWin: GAMMA.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.10393.90722](https://doi.org/10.13140/RG.2.2.10393.90722)
+———. (2001). ERD Maps. *Data*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.15939.37928](https://doi.org/10.13140/RG.2.2.15939.37928)
 
-———. (2009k). ConsoleApp_DistributionFunctions: Verteilungsform.c. *Code*.
-ResearchGate. [https://doi.org/10.13140/RG.2.2.33636.04489](https://doi.org/10.13140/RG.2.2.33636.04489)
+Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
 
-———. (2009l). ConsoleApp_DistributionFunctions: Verteilungsform_kor.c.
-*Code*. ResearchGate. [https://doi.org/10.13140/RG.2.2.25247.43685](https://doi.org/10.13140/RG.2.2.25247.43685)
+<br>
 
-———. (2009m). FunktionWin: Poisson.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.23186.53440](https://doi.org/10.13140/RG.2.2.23186.53440)
+## SCHRAUSSER-MAT [Methodology]
 
-———. (2009n). ThetaWin: Distribution simulator. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7659263](https://doi.org/10.5281/zenodo.7659263)
+---
 
-———. (2010a). FunktionWin: epsilon.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.11324.51847/1](https://doi.org/10.13140/RG.2.2.11324.51847/1)
+### Books
 
-———. (2010b). FunktionWin: Windows Interface for distribution functions.
-*Code*. ResearchGate. [https://doi.org/10.5281/zenodo.7651660](https://doi.org/10.5281/zenodo.7651660)
+Schrausser, D. G. (2022). Mathematical-Statistical Algorithm Interpreter,
+SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
+[https://www.academia.edu/81395688](https://www.academia.edu/81395688) [https://doi.org/10.17605/OSF.IO/8XE42](https://doi.org/10.17605/OSF.IO/8XE42)
 
-———. (2011a). ConsoleApp_Integral: KUSF.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.28396.64648](https://doi.org/10.13140/RG.2.2.28396.64648)
+———. (2024). *Handbook: Distribution Functions (Verteilungs Funktionen)*. PsyArXiv. [https://doi.org/10.31234/osf.io/rvzxa](https://doi.org/10.31234/osf.io/rvzxa)
 
-———. (2011b). ConsoleApp_Integral: KUSI.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.18330.31683](https://doi.org/10.13140/RG.2.2.18330.31683)
+———. (2025). *HP_Prime_MATH: Manual*. 1st ed. [https://openlibrary.org/books/OL60452436M](https://openlibrary.org/books/OL60452436M)
 
-———. (2011c). ConsoleApp_Integral: NWTI.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.32748.23683](https://doi.org/10.13140/RG.2.2.32748.23683)
+### Paper
 
-———. (2011d). ConsoleApp_Integral: NWTP.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.29392.79366](https://doi.org/10.13140/RG.2.2.29392.79366)
+Schrausser, D. G. (2025). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers*, August, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
 
-———. (2011e). ConsoleApp_Integral: ROME.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.36103.68009](https://doi.org/10.13140/RG.2.2.36103.68009)
+### Software
 
-———. (2011f). ConsoleApp_Integral: ROMI.c. *Code*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.22681.90729](https://doi.org/10.13140/RG.2.2.22681.90729)
-
-———. (2011g). SCR-EMD: Windows screensaver simulating EMD treatment.
-*Code*. ResearchGate. [https://doi.org/10.5281/zenodo.7658857](https://doi.org/10.5281/zenodo.7658857)
-
-———. (2011h). UHRwin: Time application for MS Windows. *Code*.
-ResearchGate. [https://doi.org/10.5281/zenodo.7654049](https://doi.org/10.5281/zenodo.7654049)
-
-———. (2011i). DICEwin: DICE for Windows. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
-
-———. (2011j). DAT: Matrices and raw data editor. *Code*. ResearchGate.
+Schrausser, D. G. (2011a). DAT: Matrices and raw data editor. *Code*. ResearchGate.
 [https://doi.org/10.5281/zenodo.7651151](https://doi.org/10.5281/zenodo.7651151)
 
-———. (2011k). GRP2. *Code*. ResearchGate.
+———. (2011b). GRP2. *Code*. ResearchGate.
 [https://doi.org/10.5281/zenodo.7647467](https://doi.org/10.5281/zenodo.7647467)
-
-———. (2017). EMD_Android_APK: 4.5. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
 
 ———. (2022). SCHRAUSSER-MAT. *Code*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.14377.26727](https://doi.org/10.13140/RG.2.2.14377.26727)
@@ -383,91 +342,90 @@ ResearchGate. [https://doi.org/10.5281/zenodo.7654049](https://doi.org/10.5281/z
 ———. (2023a). SCHRAUSSER-MAT SCR: CLR7r. *Code*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.16344.57600/1](https://doi.org/10.13140/RG.2.2.16344.57600/1)
 
-———. (2023b). RND1n: Random Number Screen. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7977257](https://doi.org/10.5281/zenodo.7977257)
+———. (2023b). *Schrausser/DAT: Matrices and raw data editor* (version
+v2.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7651151](https://doi.org/10.5281/zenodo.7651151)
 
-———. (2023c). DICEandro: DICE for Android. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.7943339)
+———. (2023c). *Schrausser/GRP2: GRP2* (version v1.0.0). Zenodo.
+[https://doi.org/10.5281/zenodo.7647467](https://doi.org/10.5281/zenodo.7647467)
+
+———. (2023d). *Schrausser/SCR-CLR7r: SCHRAUSSER-MAT SCR: CLR7r* (version
+v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.5281/zenodo.7647758)
+
+———. (2025). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
 
 ### more
 
-Schrausser, D. G. (1996). Scientific advice and data analysis as part of
-the Vienna Development Study (WES). Wiener Entwicklungsstudie, WES.
+Schrausser, D. G. (2025a). *Sim01/Simulation study: Mean dispersion*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/VDX25](https://doi.org/10.17605/OSF.IO/VDX25)
 
-———. (2000a). ConsoleApp_EEG: Console applications for calculating EEG
-parameters. *GitHub Repository*. GitHub.
-[https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5](https://github.com/Schrausser/ConsoleApp_EEG/releases/tag/v1.0.5)
+———. (2025b). *Sim03/Simulation study: Correlation*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/DRBC9](https://doi.org/10.17605/OSF.IO/DRBC9)
 
-———. (2000b). Development of a Parameter to Indicate the
-Focussation-Level of Cortical Activation. *Method*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.32114.17601](https://doi.org/10.13140/RG.2.2.32114.17601)
 
-———. (2000c). Spectral and Coherence Analysis: Algorithms. *Method*. ResearchGate. [https://doi.org/10.13140/RG.2.2.28637.90083](https://doi.org/10.13140/RG.2.2.28637.90083)
+<br>
 
-———. (2001). ERD Maps. *Data*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.15939.37928](https://doi.org/10.13140/RG.2.2.15939.37928)
+## Cosmology [Methodology, Cognitive Science]
 
-———. (2003a). Meta-C Questionnaires. *Method*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.14101.40168](https://doi.org/10.13140/RG.2.2.14101.40168)
+---
 
-———. (2003b). Rawdata: SPSS Data and Syntax Files.*GitHub Repository*.
-GitHub. [https://github.com/Schrausser/Rawdata](https://github.com/Schrausser/Rawdata)
+### Papers
 
-———. (2006). Advanced Tool for Integrated Algorithms: MS Windows
-interface for EEG applications. *GitHub Repository*. GitHub.
-[https://github.com/Schrausser/ATINA/releases/tag/v1.0.0](https://github.com/Schrausser/ATINA/releases/tag/v1.0.0)
+Schrausser, D. G. (2009). Psychisches und Physisches als einander implizierende
+Aspekte. *Research*. ResearchGate.
+[https://doi.org/10.13140/RG.2.2.13398.52807](https://doi.org/10.13140/RG.2.2.13398.52807)
 
-———. (2008). ConsoleApp_Tools: Console tool applications. *Code*.
-ResearchGate. [https://doi.org/10.5281/zenodo.7655240](https://doi.org/10.5281/zenodo.7655240)
+———. (2023a). Ptolemy’s Table of Chords: Calculator. *Zenodo Software Documentation 2023* (12/25). [https://doi.org/10.5281/zenodo.10362091](https://doi.org/10.5281/zenodo.10362091)
 
-———. (2009a). ThetaWin Overview. *Software*. Academia.
-[https://www.academia.edu/81800920](https://www.academia.edu/81800920)
+———. (2023b). SSR: Solar System Simulator. *Zenodo Publications 2023* (12/10). [https://doi.org/10.5281/zenodo.10338851](https://doi.org/10.5281/zenodo.10338851) [https://doi.org/10.17605/OSF.IO/VBYDX](https://doi.org/10.17605/OSF.IO/VBYDX)
 
-———. (2009b). Ip: Inferential permutation methods.*GitHub Repository*.
-GitHub. [https://github.com/Schrausser/Ip/releases/tag/v1.0.0](https://github.com/Schrausser/Ip/releases/tag/v1.0.0)
+———. (2024a). Uranologion Tables. *Zenodo Publications 2024* (2/22). [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
 
-———. (2009c). ConsoleApp_DistributionFunctions: Console applications for
-distribution functions. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
+———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024* (2/21). [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
 
-———. (2010). ConsoleApp_Matrix: Console applications for matrix
-calculation and tools. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7655047](https://doi.org/10.5281/zenodo.7655047)
+———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
 
-———. (2011a). Handbook Distribution Functions (Verteilungsfunktionen).
-*Handbooks*. Academia. [https://www.academia.edu/96844355](https://www.academia.edu/96844355)
+———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
-———. (2011b). ConsoleApp_String: Console applications for string and
-transformation. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7653791](https://doi.org/10.5281/zenodo.7653791)
+### Software
 
-———. (2011c). ConsoleApp_Integral: Console applications for integral and
-interpolation. *Code*. ResearchGate.
-[https://doi.org/10.5281/zenodo.7655057](https://doi.org/10.5281/zenodo.7655057)
+Schrausser, D. G. (2023a). *Schrausser/Ptolemy-s-table-of-chords: Calculator* (version
+v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.7948117](https://doi.org/10.5281/zenodo.7948117)
 
-———. (2023). Ptolemy’s table of chords. *Software*. Academia.
-[https://www.academia.edu/98253518](https://www.academia.edu/98253518)
+———. (2023b). *Schrausser/SSR: Solar System Simulation* (version
+v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.5281/zenodo.8240203)
 
-———. (2024a). Schrausser/Uranologion-Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.10691681](https://doi.org/10.5281/zenodo.10691681)
+———. (2024). *Schrausser/ERR: Earthrotation* (version v.3.5.9.5). Zenodo. [https://doi.org/10.5281/zenodo.11408734](https://doi.org/10.5281/zenodo.11408734)
 
-———. (2024b). Schrausser/Velho-s-Cosmographia-Tables: 1.5. *Zenodo*. [https://doi.org/10.5281/zenodo.10689015](https://doi.org/10.5281/zenodo.10689015)
+### more
 
-———. (2024c). Schrausser/ERD_maps_2001: 3.0. *Zenodo*. [https://doi.org/10.5281/zenodo.10775762](https://doi.org/10.5281/zenodo.10775762)
+Schrausser, D. G. (2024). Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions: 2.0. *Zenodo*. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
 
-———. (2024d). Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions: 2.0. *Zenodo*. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
-
-———. (2025a). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
-
-———. (2025b). *Sim01/Simulation study: Mean dispersion*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/VDX25](https://doi.org/10.17605/OSF.IO/VDX25)
-
-———. (2025c). *Sim03/Simulation study: Correlation*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/DRBC9](https://doi.org/10.17605/OSF.IO/DRBC9)
+———. (2025). Schrausser/The_Nuremberg_Chronicle_1493_Tables: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.16777127](https://doi.org/10.5281/zenodo.16777127)
 
 ———. (2026a). Schrausser/The_Nuremberg_Chronicle_1493_Sources: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.19239636](https://doi.org/10.5281/zenodo.19239636)
 
 ———. (2026b). *The Nuremberg Chronicle 1493.* Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/J5BR9](https://doi.org/10.17605/OSF.IO/J5BR9)
 
-Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
+<br>
 
+## Software and Applications [Methodology]
+
+---
+
+### Book
+
+Schrausser, D. G. (2008). File organizing tool, DTO: Manual. *Handbooks*. Academia.
+[https://www.academia.edu/81738669](https://www.academia.edu/81738669)
+
+### Papers
+
+Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Software documentation 2025* (9/2). [https://doi.org/10.5281/zenodo.17037429](https://doi.org/10.5281/zenodo.17037429)
+
+———. (2025b). ThetaWin. *Zenodo Software documentation 2025* (11/23). [https://doi.org/10.5281/zenodo.17691240](https://doi.org/10.5281/zenodo.17691240)
+
+———. (2025c). Various Programs. *Zenodo Software documentation 2025* (11/28). [https://doi.org/10.5281/zenodo.17743755](https://doi.org/10.5281/zenodo.17743755)
+
+———. (2025d). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
+
+———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. *Zenodo Software Documentation 2026* (04/13): 1–18. [https://doi.org/10.5281/zenodo.19546342](https://doi.org/10.5281/zenodo.19546342)
 
 ### Software
 
@@ -492,96 +450,41 @@ string and transformation* (version v.1.0.0). Zenodo.
 ———. (2023e). *Schrausser/ConsoleApp_Tools: Console tool applications*
 (version v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7655239](https://doi.org/10.5281/zenodo.7655239)
 
-———. (2023f). *Schrausser/DAT: Matrices and raw data editor* (version
-v2.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7651151](https://doi.org/10.5281/zenodo.7651151)
-
-———. (2023g). *Schrausser/DTO: File Organizing Tool* (version v1.0.0).
+———. (2023f). *Schrausser/DTO: File Organizing Tool* (version v1.0.0).
 Zenodo. [https://doi.org/10.5281/zenodo.7659245](https://doi.org/10.5281/zenodo.7659245)
 
-———. (2023h). *Schrausser/EMDA_Treatment: Procedure to demonstrate the
-affect-reducing effect of EMD* (version v1.0.0). Zenodo.
-[https://doi.org/10.5281/zenodo.7651366](https://doi.org/10.5281/zenodo.7651366)
-
-———. (2023i). *Schrausser/FunktionWin: Windows Interface for distribution
+———. (2023g). *Schrausser/FunktionWin: Windows Interface for distribution
 Functions* (version v1.0.0). Zenodo.
 [https://doi.org/10.5281/zenodo.7651660](https://doi.org/10.5281/zenodo.7651660)
 
-———. (2023j). *Schrausser/GRP2: GRP2* (version v1.0.0). Zenodo.
-[https://doi.org/10.5281/zenodo.7647467](https://doi.org/10.5281/zenodo.7647467)
-
-———. (2023k). *Schrausser/PCE500_MATH: Mathematical and statistical
+———. (2023h). *Schrausser/PCE500_MATH: Mathematical and statistical
 applications for SHARP PC-E500* (version v1.0.0). Zenodo.
 [https://doi.org/10.5281/zenodo.7664088](https://doi.org/10.5281/zenodo.7664088)
 
-———. (2023l). *Schrausser/PCE500_Tools: Applications for SHARP PC-E500*
+———. (2023i). *Schrausser/PCE500_Tools: Applications for SHARP PC-E500*
 (version v3.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7664079](https://doi.org/10.5281/zenodo.7664079)
 
-———. (2023m). *Schrausser/SCR-CLR7r: SCHRAUSSER-MAT SCR: CLR7r* (version
-v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.5281/zenodo.7647758)
-
-———. (2023n). *Schrausser/SCR-EMD: Windows screensaver simulating EMD
-Treatment* (version v1.0.0). Zenodo.
-[https://doi.org/10.5281/zenodo.7658856](https://doi.org/10.5281/zenodo.7658856)
-
-———. (2023o). *Schrausser/ThetaWin: Distribution simulator* (version
+———. (2023j). *Schrausser/ThetaWin: Distribution simulator* (version
 v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7659263](https://doi.org/10.5281/zenodo.7659263)
 
-———. (2023p). *Schrausser/UHRwin: Time application for MS Windows* (version
+———. (2023k). *Schrausser/UHRwin: Time application for MS Windows* (version
 v4.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7654048](https://doi.org/10.5281/zenodo.7654048)
 
-———. (2023q). *Schrausser/OXO: Simple Android tic-tac-toe for educational
+———. (2023l). *Schrausser/OXO: Simple Android tic-tac-toe for educational
 Purposes* (version v2.5.0). Zenodo.
 [https://doi.org/10.5281/zenodo.7651859](https://doi.org/10.5281/zenodo.7651859)
 
-———. (2023r). *Schrausser/ARR: Audiorecorder* (version v2.0.5). Zenodo.
+———. (2023m). *Schrausser/ARR: Audiorecorder* (version v2.0.5). Zenodo.
 [https://doi.org/10.5281/zenodo.7975741](https://doi.org/10.5281/zenodo.7975741)
 
-———. (2023s). *Schrausser/EMD_Android_APK: 4.5* (version v4.5.7). Zenodo.
-[https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
+———. (2024a). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. [https://doi.org/10.5281/zenodo.14183565](https://doi.org/10.5281/zenodo.14183565)
 
-———. (2023t). *Schrausser/RND1n: Random Number Screen* (version v2.6.3).
-Zenodo. [https://doi.org/10.5281/zenodo.7977257](https://doi.org/10.5281/zenodo.7977257)
+———. (2024b). *Schrausser/PSXm: 2.1* (version v2.1.0-beta). Zenodo. [https://doi.org/10.5281/zenodo.14520297](https://doi.org/10.5281/zenodo.14520297)
 
-———. (2023u). *Schrausser/DICEandro: DICE for Android* (version v1.5.3).
-Zenodo. [https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.7943339)
+———. (2024c). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.14280500](https://doi.org/10.5281/zenodo.14280500)
 
-———. (2023v). *Schrausser/DICEwin: DICE for Windows* (version v1.0.5).
-Zenodo. [https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
-
-———. (2023w). *Schrausser/Ptolemy-s-table-of-chords: Calculator* (version
-v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.7948117](https://doi.org/10.5281/zenodo.7948117)
-
-———. (2023x). *Schrausser/SSR: Solar System Simulation* (version
-v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.5281/zenodo.8240203)
-
-———. (2024a). *Schrausser/ConsoleApp_EEG: 2.0* (version v2.0.5). Zenodo. [https://doi.org/10.5281/zenodo.10701350](https://doi.org/10.5281/zenodo.10701350)
-
-———. (2024b). *Schrausser/ERR: Earthrotation* (version v.3.5.9.5). Zenodo. [https://doi.org/10.5281/zenodo.11408734](https://doi.org/10.5281/zenodo.11408734)
-
-———. (2024c). *Schrausser/Batches_EEG: 1.1* (version v1.1). Zenodo. [https://doi.org/10.5281/zenodo.13968251](https://doi.org/10.5281/zenodo.13968251)
-
-———. (2024d). *Schrausser/Abh_wkt: 1.5* (version v1.5.0). Zenodo. [https://doi.org/10.5281/zenodo.14183565](https://doi.org/10.5281/zenodo.14183565)
-
-———. (2024e). *Schrausser/PSXm: 2.1* (version v2.1.0-beta). Zenodo. [https://doi.org/10.5281/zenodo.14520297](https://doi.org/10.5281/zenodo.14520297)
-
-———. (2024f). *Schrausser/Various_programs: 3.5* (version v3.5.2). Zenodo. [https://doi.org/10.5281/zenodo.14280500](https://doi.org/10.5281/zenodo.14280500)
-
-———. (2025a). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
-
-———. (2025b). *Schrausser/LV: 3.8*. Zenodo. July 2025. [https://doi.org/10.5281/zenodo.16502602](https://doi.org/10.5281/zenodo.16502602)
+———. (2025). *Schrausser/LV: 3.8*. Zenodo. July 2025. [https://doi.org/10.5281/zenodo.16502602](https://doi.org/10.5281/zenodo.16502602)
 
 ———. (2026). *Schrausser/ConsoleApp_references: 2.0* (version v2.0.5). Zenodo. [https://doi.org/10.5281/zenodo.19513239](https://doi.org/10.5281/zenodo.19513239)
 
-## Herfried Schrausser
 
-Schrausser, H., & et al. (2012). Deutsch für Sonderschulen; Spracherziehung und Einführung in die Kulturtechniken für Sonderschulen. In *Schulbuchaktion 2011/2012; Schulbuchliste Volksschulen und Sonderschulen*, 57; 62. Vienna, Austria: Bundesministerium für Wirtschaft, Familie und Jugend; Bundesministerium für Unterricht, Kunst und Kultur. [https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online](https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online)
-
-Schrausser, H., Kerecz, M., & Petrischek, R. (2009). *Meine fünfte Arbeitsmappe: Ein Arbeitsbuch für die 4. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 4th ed. Graz: Leykam Buchverlag. [https://www.leykamverlag.at/produkt/meine-fuenfte-arbeitsmappe-arbeitsbuch-fuer-die-vierte-schulstufe-der-sonderschule/](https://www.leykamverlag.at/produkt/meine-fuenfte-arbeitsmappe-arbeitsbuch-fuer-die-vierte-schulstufe-der-sonderschule/)
-
-Schrausser, H., Kerecz, M., Edler, P., Petrischek, R., & Ballinger, E. (1978). *Meine erste Arbeitsmappe: Ein Arbeitsbuch für die 1. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 3rd ed. Graz: Leykam Buchverlag. [https://uni.leykamverlag.at/produkt/meine-erste-arbeitsmappe-arbeitsbuch-fuer-die-erste-schulstufe-der-sonderschulen/](https://uni.leykamverlag.at/produkt/meine-erste-arbeitsmappe-arbeitsbuch-fuer-die-erste-schulstufe-der-sonderschulen/)
-
-Schrausser, H., Kerecz, M., Petrischek, R., & Ballinger, E. (2006). *Meine sechste Arbeitsmappe: Ein Arbeitsbuch für die 5. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 3rd ed. Graz: Leykam Buchverlag. [https://www.leykamverlag.at/produkt/meine-sechste-arbeitsmappe-arbeitsbuch-fuer-die-fuenfte-schulstufe-der-sonderschule/](https://www.leykamverlag.at/produkt/meine-sechste-arbeitsmappe-arbeitsbuch-fuer-die-fuenfte-schulstufe-der-sonderschule/)
-
-## Ernst Bernd Schrausser
-
-Schrausser, E. B. (1973). *Haltedübel aus Kunststoff für die Befestigung von Einzeldrähten oder Drähten von Geflechten an einem Profil oder einer Platte, insbesondere bei Zäunen*. AT308372B. Patent, issued July 10, 1973. [https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=AT000000308372B&xxxfull=1](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=AT000000308372B&xxxfull=1)
