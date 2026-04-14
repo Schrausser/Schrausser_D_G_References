@@ -106,6 +106,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2025e). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
 
+———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. *Zenodo Software Documentation 2026* (04/13): 1–18. [https://doi.org/10.5281/zenodo.19546342](https://doi.org/10.5281/zenodo.19546342)
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)
@@ -460,14 +462,18 @@ interpolation. *Code*. ResearchGate.
 
 ———. (2025c). *Sim03/Simulation study: Correlation*. Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/DRBC9](https://doi.org/10.17605/OSF.IO/DRBC9)
 
-———. (2026). *The Nuremberg Chronicle 1493.* Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/J5BR9](https://doi.org/10.17605/OSF.IO/J5BR9)
+———. (2026a). Schrausser/The_Nuremberg_Chronicle_1493_Sources: 1.0. *Zenodo*. [https://doi.org/10.5281/zenodo.19239636](https://doi.org/10.5281/zenodo.19239636)
+
+———. (2026b). *The Nuremberg Chronicle 1493.* Open Science Framework OSF. [https://doi.org/10.17605/OSF.IO/J5BR9](https://doi.org/10.17605/OSF.IO/J5BR9)
 
 Schrausser, D. G., & Neubauer, A. C. (2024). *P13461 Instruction Movie: Installation of EEG Cap and Electrodes*. Zenodo. December 2024. [https://doi.org/10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
 
 
 ### Software
 
-Schrausser, D. G. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
+Schrausser, D. G. (2006). *Schrausser/ATINA: 1.5* (version v1.5.2). Zenodo. [https://doi.org/10.5281/zenodo.19422127](https://doi.org/10.5281/zenodo.19422127)
+
+———. (2023a). *Schrausser/ConsoleApp_DistributionFunctions:
 Console applications for distribution functions* (version v1.0.0).
 Zenodo. [https://doi.org/10.5281/zenodo.7664141](https://doi.org/10.5281/zenodo.7664141)
 
@@ -563,6 +569,8 @@ v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.
 ———. (2025a). *Schrausser/HP_Prime_MATH: 1.5*. Zenodo. January 2025. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
 
 ———. (2025b). *Schrausser/LV: 3.8*. Zenodo. July 2025. [https://doi.org/10.5281/zenodo.16502602](https://doi.org/10.5281/zenodo.16502602)
+
+———. (2026). *Schrausser/ConsoleApp_references: 2.0* (version v2.0.5). Zenodo. [https://doi.org/10.5281/zenodo.19513239](https://doi.org/10.5281/zenodo.19513239)
 
 ## Herfried Schrausser
 
