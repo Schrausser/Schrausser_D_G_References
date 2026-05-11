@@ -574,6 +574,8 @@ v3.7.25.2). Zenodo. [https://doi.org/10.5281/zenodo.8240203](https://doi.org/10.
 
 ## Herfried Schrausser
 
+Brunner, K., Reger, H., Schrausser, H., Trupp, W., Günthert, E., & Uray, E. L. (1974). *Styrian Songs of the Nativity*. Musical Heritage Society. [https://worldcat.org/title/4046769](https://worldcat.org/title/4046769)
+
 Schrausser, H., & et al. (2012). Deutsch für Sonderschulen; Spracherziehung und Einführung in die Kulturtechniken für Sonderschulen. In *Schulbuchaktion 2011/2012; Schulbuchliste Volksschulen und Sonderschulen*, 57; 62. Vienna, Austria: Bundesministerium für Wirtschaft, Familie und Jugend; Bundesministerium für Unterricht, Kunst und Kultur. [https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online](https://www.yumpu.com/de/document/read/5702458/0100-schulbuchaktion-online)
 
 Schrausser, H., Kerecz, M., & Petrischek, R. (2009). *Meine fünfte Arbeitsmappe: Ein Arbeitsbuch für die 4. Schulstufe der Sonderschulen für schwerstbehinderte Kinder*. 4th ed. Graz: Leykam Buchverlag. [https://www.leykamverlag.at/produkt/meine-fuenfte-arbeitsmappe-arbeitsbuch-fuer-die-vierte-schulstufe-der-sonderschule/](https://www.leykamverlag.at/produkt/meine-fuenfte-arbeitsmappe-arbeitsbuch-fuer-die-vierte-schulstufe-der-sonderschule/)
