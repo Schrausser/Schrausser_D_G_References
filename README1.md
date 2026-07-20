@@ -124,7 +124,7 @@ Movement Desensitization. *Research*. ResearchGate.
 
 Schrausser, D. G., Fink, A., & Neubauer, A. C. (2003). Intelligence and
 neural efficiency: Sex- and task-related effects on EEG coherence. 
- *International Journal of Psychophysiology*. ResearchGate.
+ *The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.28760.16646](https://doi.org/10.13140/RG.2.2.28760.16646)
 
 ### WWW
