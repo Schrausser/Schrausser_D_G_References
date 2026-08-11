@@ -122,10 +122,10 @@ Movement Desensitization. *Research*. ResearchGate.
 ———. (2022). EMD – Eye Movement Desensitization. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.13968.38404](https://doi.org/10.13140/RG.2.2.13968.38404)
 
-Schrausser, D. G., Fink, A., & Neubauer, A. C. (2003). Intelligence and
+Schrausser, D. G., Fink, A., & Neubauer, A. C. (2026). Intelligence and
 neural efficiency: Sex- and task-related effects on EEG coherence. 
- *The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria*. ResearchGate.
-[https://doi.org/10.13140/RG.2.2.28760.16646](https://doi.org/10.13140/RG.2.2.28760.16646)
+ The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria. In *SSRN Electronic Journal. Elsevier*.
+[https://doi.org/10.2139/ssrn.7176638](https://doi.org/10.2139/ssrn.7176638)
 
 ### WWW
 
