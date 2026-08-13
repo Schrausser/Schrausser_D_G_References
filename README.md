@@ -279,8 +279,7 @@ Schrausser, D. G. (1999). Nachrichten aus Instituten und Institutionen. *Psychol
 [https://doi.org/10.1026//0033-3042.50.2.123](https://doi.org/10.1026//0033-3042.50.2.123)
 
 Schrausser, D. G., Fink, A., & Neubauer, A. C. (2026). Intelligence and
-neural efficiency: Sex- and task-related effects on EEG coherence. 
- The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria. In *SSRN Electronic Journal. Elsevier*.
+neural efficiency: Sex- and task-related effects on EEG coherence. [The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria]. In *SSRN Electronic Journal. Elsevier*.
 [https://doi.org/10.2139/ssrn.7176638](https://doi.org/10.2139/ssrn.7176638)
 
 ### Software
