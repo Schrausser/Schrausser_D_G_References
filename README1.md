@@ -106,7 +106,10 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2025e). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
 
-———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. *Zenodo Software Documentation 2026* (04/13): 1–18. [https://doi.org/10.5281/zenodo.19546342](https://doi.org/10.5281/zenodo.19546342)
+———. (2026a). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. In *SSRN Electronic Journal. Elsevier*.
+[https://doi.org/10.2139/ssrn.7119481](https://doi.org/10.2139/ssrn.7119481) 
+
+———. (2026b). The Nuremberg Chronicle 1493: Tables. *Zenodo Data paper 2026* (07/13): 1–24. [https://doi.org/10.5281/zenodo.21293906](https://doi.org/10.5281/zenodo.21293906)
 
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
@@ -124,7 +127,7 @@ Movement Desensitization. *Research*. ResearchGate.
 
 Schrausser, D. G., Fink, A., & Neubauer, A. C. (2026). Intelligence and
 neural efficiency: Sex- and task-related effects on EEG coherence. 
- The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria. In *SSRN Electronic Journal. Elsevier*.
+[The article was 'accepted with minor remarks' at the International Journal of Psychophysiology in 2003, corrected but never published, due to oddities at the University of Graz, Austria]. In *SSRN Electronic Journal. Elsevier*.
 [https://doi.org/10.2139/ssrn.7176638](https://doi.org/10.2139/ssrn.7176638)
 
 ### WWW
@@ -277,6 +280,8 @@ Edinburgh. [https://doi.org/10.13140/RG.2.2.24814.89929](https://doi.org/10.1314
 EEG-Kohärenz. In *5. Tagung der Österreichischen Gesellschaft für
 Psychologie (ÖGP)*. Wien, Österreich: Universität Wien.
 [https://doi.org/10.13140/RG.2.2.13962.13768](https://doi.org/10.13140/RG.2.2.13962.13768)
+
+Schrausser, D. G. (2026). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://zenodo.org/records/21829005](https://zenodo.org/records/21829005) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
 
 ### Source codes
 

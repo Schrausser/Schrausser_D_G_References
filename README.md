@@ -366,6 +366,11 @@ Schrausser, D. G. (2025a). *Sim01/Simulation study: Mean dispersion*. Open Scien
 
 ---
 
+### Conferences
+
+
+Schrausser, D. G. (2026). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://zenodo.org/records/21829005](https://zenodo.org/records/21829005) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
+
 ### Papers
 
 Schrausser, D. G. (2009). Psychisches und Physisches als einander implizierende
@@ -383,6 +388,8 @@ Aspekte. *Research*. ResearchGate.
 ———. (2024c). Ptolemy’s Table of Chords: Implications Considered and Discussed, *BodoArXiv Works*, May, 1–19. [https://doi.org/10.34055/osf.io/j7ukp](https://doi.org/10.34055/osf.io/j7ukp)
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
+
+———. (2026). The Nuremberg Chronicle 1493: Tables. *Zenodo Data paper 2026* (07/13): 1–24. [https://doi.org/10.5281/zenodo.21293906](https://doi.org/10.5281/zenodo.21293906)
 
 ### Software
 
@@ -425,7 +432,8 @@ Schrausser, D. G. (2025a). LV Lightvalues Exposure Calculator. *Zenodo Softwar
 
 ———. (2025d). FunktionWin: Windows Interface for Distribution Functions. *Zenodo Software Documentation 2025* (12/10). [https://doi.org/10.5281/zenodo.17880113](https://doi.org/10.5281/zenodo.17880113)
 
-———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. *Zenodo Software Documentation 2026* (04/13): 1–18. [https://doi.org/10.5281/zenodo.19546342](https://doi.org/10.5281/zenodo.19546342)
+———. (2026). Console Applications for Mathematical Functions, EEG Signal Analysis, String Manipulation and Utilities. In *SSRN Electronic Journal. Elsevier*.
+[https://doi.org/10.2139/ssrn.7119481](https://doi.org/10.2139/ssrn.7119481) 
 
 ### Software
 
