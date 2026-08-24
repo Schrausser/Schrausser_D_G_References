@@ -368,7 +368,7 @@ Schrausser, D. G. (2025a). *Sim01/Simulation study: Mean dispersion*. Open Scien
 ### Conferences
 
 
-Schrausser, D. G. (2026). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://zenodo.org/records/21829005](https://zenodo.org/records/21829005) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
+Schrausser, D. G. (2026). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
 
 ### Papers
 
