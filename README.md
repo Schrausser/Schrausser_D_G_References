@@ -388,7 +388,9 @@ Aspekte. *Research*. ResearchGate.
 
 ———. (2024d). ERR Earthrotation. *ScienceOpen*, June. [https://doi.org/10.14293/PR2199.000905.v1](https://doi.org/10.14293/PR2199.000905.v1)
 
-———. (2026). The Nuremberg Chronicle 1493: Tables. *Zenodo Data paper 2026* (07/13): 1–24. [https://doi.org/10.5281/zenodo.21293906](https://doi.org/10.5281/zenodo.21293906)
+———. (2026a). The Nuremberg Chronicle 1493: Tables. *Zenodo Data paper 2026* (07/13): 1–24. [https://doi.org/10.5281/zenodo.21293906](https://doi.org/10.5281/zenodo.21293906)
+
+———. (2026b). The Nuremberg Chronicle 1493: Transcriptions. *BodoArXiv Works*, October, 1–70. [https://doi.org/10.34055/osf.io/n4dfq_v1](https://doi.org/10.34055/osf.io/n4dfq_v1)
 
 ### Software
 

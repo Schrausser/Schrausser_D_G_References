@@ -111,6 +111,9 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2026b). The Nuremberg Chronicle 1493: Tables. *Zenodo Data paper 2026* (07/13): 1–24. [https://doi.org/10.5281/zenodo.21293906](https://doi.org/10.5281/zenodo.21293906)
 
+———. (2026c). The Nuremberg Chronicle 1493: Transcriptions. *BodoArXiv Works*, October, 1–70. [https://doi.org/10.34055/osf.io/n4dfq_v1](https://doi.org/10.34055/osf.io/n4dfq_v1)
+
+
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
 [https://doi.org/10.13140/RG.2.2.27967.18088](https://doi.org/10.13140/RG.2.2.27967.18088)
