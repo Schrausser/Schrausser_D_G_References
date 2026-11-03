@@ -392,6 +392,8 @@ Aspekte. *Research*. ResearchGate.
 
 ———. (2026b). The Nuremberg Chronicle 1493: Transcriptions. *BodoArXiv Works*, October, 1–70. [https://doi.org/10.34055/osf.io/n4dfq_v1](https://doi.org/10.34055/osf.io/n4dfq_v1)
 
+———. (2026c). The Nuremberg Chronicle 1493: Subsequent Compilation of Related Further Tables. *Zenodo Data Paper 2026* (11/03): 1–37. [https://doi.org/10.5281/zenodo.23912161](https://doi.org/10.5281/zenodo.23912161)
+
 ### Software
 
 Schrausser, D. G. (2023a). *Schrausser/Ptolemy-s-table-of-chords: Calculator* (version

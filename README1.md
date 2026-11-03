@@ -113,6 +113,8 @@ SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
 
 ———. (2026c). The Nuremberg Chronicle 1493: Transcriptions. *BodoArXiv Works*, October, 1–70. [https://doi.org/10.34055/osf.io/n4dfq_v1](https://doi.org/10.34055/osf.io/n4dfq_v1)
 
+———. (2026d). The Nuremberg Chronicle 1493: Subsequent Compilation of Related Further Tables. *Zenodo Data Paper 2026* (11/03): 1–37. [https://doi.org/10.5281/zenodo.23912161](https://doi.org/10.5281/zenodo.23912161)
+
 
 Schrausser, D. G., & Scambor, C. (1995). Randomisierungstests: Eine
 Einführung in die Methode. *Research*. ResearchGate.
@@ -284,7 +286,9 @@ EEG-Kohärenz. In *5. Tagung der Österreichischen Gesellschaft für
 Psychologie (ÖGP)*. Wien, Österreich: Universität Wien.
 [https://doi.org/10.13140/RG.2.2.13962.13768](https://doi.org/10.13140/RG.2.2.13962.13768)
 
-Schrausser, D. G. (2026). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
+Schrausser, D. G. (2026a). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
+
+Schrausser, D. G. (2026b). The Nuremberg Chronicle 1493: Comparative substantive synopsis of the most important astronomical and metaphysical elements. In *DSI December 1st, 2026 Project 10.17605/OSF.IO/J5BR9, Online Presentation*. World Wide Web. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
 
 ### Source codes
 
