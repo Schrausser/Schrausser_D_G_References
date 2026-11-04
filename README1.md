@@ -288,7 +288,7 @@ Psychologie (ÖGP)*. Wien, Österreich: Universität Wien.
 
 Schrausser, D. G. (2026a). The Nuremberg Chronicle 1493: Regression analysis results of the astronomical distance parameters based on the diapason. In *DSI August 6th, 2026 Project 10.17605/OSF.IO/J5BR9, Karl-Franzens University*. Graz, Austria. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
 
-Schrausser, D. G. (2026b). The Nuremberg Chronicle 1493: Comparative substantive synopsis of the most important astronomical and metaphysical elements. In *DSI December 1st, 2026 Project 10.17605/OSF.IO/J5BR9, Online Presentation*. World Wide Web. [https://doi.org/10.5281/zenodo.22052385](https://doi.org/10.5281/zenodo.22052385) [youtube.com/watch](https://m.youtube.com/watch?v=TTJD6HEVzbg)
+Schrausser, D. G. (FORTHCOMING). The Nuremberg Chronicle 1493: Comparative substantive synopsis of the most important astronomical and metaphysical elements. In *DSI December 1st, 2026 Project 10.17605/OSF.IO/J5BR9, Online Presentation*. World Wide Web.
 
 ### Source codes
 
